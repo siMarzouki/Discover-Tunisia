@@ -1,0 +1,765 @@
+{
+    "transport": "Transport",
+    "good": "Bon à savoir",
+    "shopping": "Shopping",
+    "about": "À propos de l'application",
+    "title": "Découvrez la Tunisie",
+    "line1": "Tous les textes et images de cette application proviennent de ",
+    "line2": "et sont utilisés à des fins non commerciales",
+    "destinations": [
+        {
+            "name": "Tabarka",
+            "lat": 36.954953,
+            "log": 8.7584412,
+            "img": "1",
+            "good": "Commissariat au Tourisme de Tabarka \nTél. : 78 671 491 / 78 673 496\ncrt.tabarka@ontt.tourism.tn\nFestivals\nTabarka Jazz Festival, Tabarka Latino Days (juillet-août)\nMarchés hebdomadaires\nLundi : Aïn Draham. Mardi : Ghardimaou. Mercredi : Nefza, Jendouba. Jeudi : Bou Salem. Vendredi : Tabarka. Dimanche : Fernana.",
+            "transport": "Tabarka est accessible en avion (aéroport international) ou par la route (180 km de Tunis, dont 70 par autoroute).",
+            "shopping": "Faites le tour des bijouteries près du port, vous y trouverez des parures originales en corail rouge et argent. Rapportez des souvenirs d’Aïn Draham en bois sculpté : cannes, statuettes d’aigles ou de cerfs… Vous pourrez aussi acheter de beaux paniers d’osier, des poteries de Sejnane (voir p. 19) ou des objets tirés du liège récolté dans la région.",
+            "slides": [
+                {
+                    "main": "On choisit Tabarka pour son site exceptionnel, entre mer et montagne. Les plages de sable blanc sont encadrées d’éperons rocheux, de bois de pins et de chênes-lièges. La mer cristalline dissimule dans ses profondeurs le précieux corail rouge. La silhouette caractéristique du Fort Génois, perché sur un îlot, est l’emblème de la Tabarka. L’arrière-pays montagneux est la promesse de fantastiques excursions et randonnées autour du village d’Aïn Draham, point de départ d’un vaste massif forestier."
+                },
+                {
+                    "title": "Forêts et côte sauvage",
+                    "main": "Le centre-ville de Tabarka a gardé un air désuet de petite ville coloniale. Prenez un rafraîchissement au Café des Andalous, café maure situé au cœur de la ville, puis flânez sur la coquette marina où les barques de pêcheurs côtoient les bateaux de plaisance. Non loin se tiennent les bijoutiers qui proposent des merveilles en perles de corail, la fierté de la ville. Les artisans fabriquent aussi de beaux objets en liège, récolté dans la région, et en bois sculpté. Gagnez un point élevé de la ville pour profiter du sublime panorama sur la baie. Le coucher du soleil fait flamboyer les Aiguilles, hauts rochers érodés par la mer. A l’intérieur des terres apparaît un paysage montagneux couvert d’un épais manteau forestier. C’est là que se trouve le village d’Aïn Draham, insolite en Tunisie avec ses maisons aux toits rouges étagées à flanc de coteau. Au hasard des routes de montagne vous attendent des paysages bucoliques et de charmants lacs en pleine forêt.",
+                    "subtitle": "Que voir ?"
+                },
+                {
+                    "title": "Plongée ou randonnée",
+                    "main": "“Ne bronzez pas idiot” était la première devise du Festival de musique de Tabarka. Et il est vrai que la petite station vous offrira bien plus que ses plages et l’animation de ses hôtels. Appréciée des plaisanciers, elle offre de nombreuses possibilités d’excursions en mer vers les criques voisines ou vers l’île de La Galite. Tabarka a une longue tradition de plongée sous-marine et de spectaculaires sites de plongée. S’y ajoutent un remarquable terrain de golf en bord de mer, des centres de thalasso (Tabarka) et de thermalisme (près d’Aïn Draham). En été, Tabarka s’anime avec plusieurs événements sous le signe du jazz et des musiques du monde. Le nord-Ouest de la Tunisie, avec son épaisse forêt et sa nature préservée, est idéal pour pratiquer la randonnée, l’observation de la nature ainsi que la chasse. Deux sites archéologiques de premier plan se trouvent aussi dans la région : Chemtou (extraction du marbre, civilisation numide) et Bulla Regia (maisons romaines souterraines).",
+                    "subtitle": "Que faire ?"
+                },
+                {
+                    "title": "Langouste ou marcassin",
+                    "main": "Lors de votre séjour à Tabarka, ne manquez pas de déguster une langouste à la terrasse d’un des restaurants du port. Ils vous régaleront de poissons et fruits de mer. Les hôtels de la station balnéaire servent une cuisine de bonne tenue. Vous pourrez aussi vous restaurer dans un hôtel ancien du centre-ville, en contemplant le superbe panorama sur la côte. A Aïn Draham, haut lieu de la chasse au sanglier, on vous servira un délicieux ragoût de marcassin.",
+                    "subtitle": "Que manger ?"
+                },
+                {
+                    "title": "A la plage ou en forêt",
+                    "main": "Station balnéaire à taille humaine, Tabarka compte une dizaine d’hôtels resorts au bord de la plage, ainsi qu’une résidence hôtelière à l’orée de la forêt. Au centre-ville de Tabarka, vous pourrez opter pour un petit hôtel à l’ancienne ou un hôtel de charme aménagé dans une maison traditionnelle. Autour d’Aïn Draham, vous trouverez plusieurs hôtels confortables : hôtel de chasseurs au décor rustique, établissement de catégorie supérieure en pleine nature ou grand hôtel thermal entouré de forêts.",
+                    "subtitle": "Où dormir ?"
+                },
+                {
+                    "title": "Un massif forestier préservé",
+                    "main": "Véritable château d’eau de la Tunisie, le nord-Ouest est arrosé de nombreuses rivières et recouvert d’une végétation verdoyante. Les barrages y sont nombreux, formant des lacs pleins de charme. C’est aussi une région au relief contrasté où les montagnes peuvent atteindre une altitude de plus de 1000 mètres. Mais c’est surtout par sa forêt que cette région est remarquable. Pins, chênes-lièges et chênes zen y recouvrent une surface de plusieurs dizaines de milliers d’hectares très peu perturbée par l’intervention humaine. Dans ces paysages, qui ne sont pas sans rappeler ceux de Corse ou de Sardaigne, vivent de nombreuses espèces sauvages : sangliers, aigles bottés, pics et mésanges … A l’extrême ouest du pays, le Parc national de Feija s’étend sur près de 3000 hectares. Il est connu pour sa magnifique forêt et pour abriter une importante population de cerfs élaphes de Barbarie, l’unique cervidé d’Afrique. Ce cerf est l’objet de mesures de protection depuis les années 1960.",
+                    "subtitle": "Des clés pour comprendre"
+                },
+                {
+                    "title": "Corail et bijoux",
+                    "main": "Savez-vous que les bijoux de corail rouge qu’on vous proposera à Tabarka renvoient à une très vieille histoire ? Depuis l’Antiquité, cette matière précieuse a en effet attiré toutes les convoitises en une véritable “ruée vers l’or” : l’or rouge de la Méditerranée, comme est parfois appelé le corail. Le corail ressemble à des branchages portant de petites fleurs blanches. Mais c’est en réalité un squelette calcaire habité par de minuscules animaux de la famille des anémones de mer et des méduses. \nDevenu rare aujourd’hui, le corail rouge était autrefois particulièrement abondant sur la côte nord de la Tunisie. Au 16e siècle, des commerçants génois en avaient obtenu le monopole. C’est pour protéger leur activité qu’ils avaient construit à Tabarka un village fortifié dont subsiste le Fort génois, emblème de la ville. Aujourd’hui, il faut plonger à de grandes profondeurs pour le trouver en abondance. Mais cela n’empêche pas les plongeurs amateurs d’admirer les splendides branchages de gorgones aux couleurs vives."
+                }
+            ]
+        },
+        {
+            "name": "De Bizerte à Dougga",
+            "lat": 37.2757111,
+            "log": 9.8701033,
+            "img": "2",
+            "good": "Commissariat au Tourisme de Bizerte\n Tél. : 72 430 999 / 72 432 897 / 72 432 703 \ncrt.bizerte@ontt.tourism.tn \nMarchés hebdomadaires \nMardi : Bizerte, Béja.  Jeudi : Sejnane, Teboursouk. Vendredi : Ras Jebel, Mateur, Testour. Samedi : Mateur, El Alia, Thibar. Dimanche : Bizerte",
+            "transport": "L’aéroport de Tunis-Carthage est à 70 km de Bizerte. Une autoroute et une ligne de train relient Bizerte à la capitale. Une autre autoroute dessert l’ouest de Tunis en direction de Testour et Dougga.",
+            "shopping": "A Bizerte comme dans toutes les villes de Tunisie, des boutiques d’artisanat et de souvenirs vous proposeront un grand choix de bibelots, tuniques brodées, sacs et babouches de cuir, tapis, paniers tressés… Ne manquez pas de rapporter des poteries berbères de Sejnane, originales et très graphiques avec leur décor rouge et noir stylisé.",
+            "slides": [
+                {
+                    "main": "Amoureux de nature et d’authenticité, les plages et les vallées du nord de la Tunisie vous combleront. Criques sauvages, forêts, vignes et vastes champs de blé… En bord de mer, Bizerte, sentinelle sur la Méditerranée, est une ville d’histoire au charme préservé. Cette région verdoyante abrite de surcroît deux sites inscrits au patrimoine mondial de l’Unesco. L’un est un site culturel, la cité romaine de Dougga, et l’autre est le parc naturel d’Ichkeul dont le lac attire des milliers d’oiseaux migrateurs."
+                },
+                {
+                    "title": "Médina et paysages",
+                    "main": "Le cœur de Bizerte se trouve au vieux port, plan d’eau encadré de maisons blanches et de murailles centenaires où glissent silencieusement des barques de pêcheurs. Un lieu plein de charme et chargé d’histoire. Sur les quais, profitez de l’ambiance en vous attablant à la terrasse d’un café. Puis pénétrez dans la silencieuse Kasbah cernée de remparts. Parcourez les ruelles étroites de la médina, visitez les souks, admirez au passage la fontaine turque du 17e siècle. Montez jusqu’au Fort d’Espagne qui domine la ville, pour jouir de la vue sur le port. Promenez-vous au centre-ville, qui a gardé l’allure de l’ancienne ville coloniale avec ses larges avenues. Flânez sur le nouveau port de plaisance ou sur le port de commerce grouillant d’activité. Aux environs de la ville, vous serez sans doute surpris par le paysage verdoyant de collines, de champs de blé et de vergers : cette région est l'une des plus fertiles de Tunisie.",
+                    "subtitle": "Que voir ?"
+                },
+                {
+                    "title": "Baignade ou archéologie",
+                    "main": "Moins courue que Hammamet ou Sousse, Bizerte possède quelques beaux hôtels pour profiter de la plage et du soleil d’été. C’est aussi une destination appréciée pour la plaisance et la plongée sous-marine. De part et d’autre, la côte égrène de magnifiques plages, peu fréquentées par les touristes : Cap Serrat, Raf-Raf, Ghar el-Melh … Au parc naturel d’Ichkeul, inscrit sur la liste du patrimoine mondial de l’Unesco, on peut se promener sur les rives du lac et explorer la montagne par les sentiers balisés. Les amateurs d’histoire découvriront l’héritage andalou de Tunisie à Testour, les belles forteresses ottomanes de Ghar el-Melh, le Fort de Bizerte, le site archéologique d’Utique et surtout celui de Dougga, l'un des plus spectaculaires du monde romain.",
+                    "subtitle": "Que faire ?"
+                },
+                {
+                    "title": "Poisson et fruits de mer",
+                    "main": "Lovée autour de son vieux port, Bizerte est un haut lieu de dégustation des produits de la mer. En entrée ou en plat de résistance, régalez-vous de seiches, calamars, crevettes … On vous servira du poisson grillé accompagné de légumes frits ou cuit au four avec cumin et safran. Les vallées du nord constituent une riche terre agricole où se côtoient céréales, élevage et culture de l’olivier. Dans la région, une spécialité des fêtes est le t’bikh, sorte de soupe de blé mijotée à la viande d’agneau, parfumée aux épices et aux écorces d’orange. Vous dégusterez aussi un délicieux couscous au mérou délicatement parfumé. Le couscous est un vieux plat berbère à base de semoule cuite à la vapeur, habituellement garnie de viande d’agneau et de légumes ; mais dans les villes côtières, on le prépare volontiers avec du poisson. Pour vous restaurer, vous trouverez de bonnes adresses près des hôtels de la plage, du vieux port et de la marina.",
+                    "subtitle": "Que manger ?"
+                },
+                {
+                    "title": "Hôtel, ferme écologique ou bungalow sur la plage",
+                    "main": "Si Bizerte possède une zone hôtelière classique pour les vacances en bord de mer, on trouvera aussi dans la région des hébergements plus originaux. Par exemple, une chambre d’hôtes dans une ferme écologique en pleine campagne, des bungalows au bord d’une plage déserte, une luxueuse villa avec vue sur mer, ou une maison ancienne dans la vieille ville.",
+                    "subtitle": "Où dormir ?"
+                },
+                {
+                    "title": "Des forts et des oiseaux",
+                    "main": "Les ruines d’Utique, première fondation phénicienne de Tunisie, et de Dougga, petite ville autochtone devenue romaine, témoignent du passé antique de cette région fertile. A Dougga, on peut voir toute une ville antique exceptionnellement bien conservée, où émergent des monuments comme le mausolée numide, le théâtre et le capitole. Bizerte occupe une place stratégique en Méditerranée qui a déterminé jusqu’à nos jours sa vocation militaire. Son port intérieur et son grand lac relié à la mer accueillaient jusqu’au 17e siècle des galères de corsaires. Au sud de Bizerte, Ghar el-Melh a abrité jadis la flotte de guerre ottomane ; on peut toujours y voir les ruines de l’arsenal et trois forteresses. Sa région a été cultivée et mise en valeur à la même époque par des Andalous, musulmans chassés d’Espagne. Ceux-ci se sont aussi installés à Testour, petite ville où l’on peut voir des mosquées uniques en leur genre, inspirées des églises espagnoles. Le lac Ichkeul est l'une des zones humides les plus importantes de Méditerranée. C’est un écosystème unique, caractérisé par l’alternance saisonnière d’eau douce et d’eau salée qui attire des milliers d’oiseaux d’eau. Une montagne boisée surplombe le lac ; elle abrite une faune et une flore remarquables.",
+                    "subtitle": "Des clés pour comprendre"
+                },
+                {
+                    "title": "Les potières de Sejnane",
+                    "main": "Le petit village de Sejnane est connu pour sa tradition de poterie qui remonte à la nuit des temps. Ici, les femmes apprennent dès leur plus jeune âge à pétrir l’argile et à la modeler. Leur dextérité est étonnante : sans jamais utiliser le tour de potier, elles réalisent des plats, des marmites et des vases parfaitement formés. Au gré de leur fantaisie, elles font aussi des petits jouets et des poupées décoratives qu’elles peignent de motifs berbères traditionnels, avec de l’ocre rouge et des colorants végétaux. Zigzags, triangles, chevrons… les délicieux petits personnages s’animent sous leurs doigts. Sur les assiettes et les plats, elles peignent aussi de très vieux symboles de palmiers, tortues, poissons, silhouettes humaines. Leurs outils sont des plus simples : quelques bâtonnets, des planchettes, des fragments de plastique, et des coquillages pour polir les surfaces. Le village de Sejnane, entouré de collines et de lacs, est aussi connu pour sa petite gare française et pour sa colonie de cigognes qui nichent dans d’anciens échafaudages industriels. Autant de bonnes raisons de venir à la rencontre des potières artistes de Sejnane."
+                }
+            ]
+        },
+        {
+            "name": "Nabeul et le Cap Bon",
+            "lat": 36.451239,
+            "log": 10.7357917,
+            "img": "3",
+            "good": "Commissariat au Tourisme de Nabeul \nTél. 72 286 800 / 72 286 737 / 72 287 065 \ncrt.nabeul@ontt.tourism.tn \nMarchés hebdomadaires \nLundi : Kélibia. Mardi : Menzel Temime. Mercredi : Menzel Bou Zelfa. Vendredi : Nabeul. Dimanche : Korba.",
+            "transport": "Nabeul est desservi par les aéroports de Tunis-Carthage (65 km) et Enfidha-Hammamet (55 km). Un service d’autocars rapides et confortables est assuré depuis la gare routière de Tunis (autoroute et route à quatre voies). Pour circuler en ville et dans les environs proches, héler un taxi.",
+            "shopping": "De nombreuses boutiques d’artisanat et de souvenirs se trouvent à proximité des hôtels et dans les souks de Nabeul. Les centres commerciaux et les boutiques de centre-ville vous donnent accès à des produits très variés et souvent à des prix modiques : mode et vêtements de cuir, chaussures, bijoux précieux ou de fantaisie, spécialités culinaires…",
+            "slides": [
+                {
+                    "main": "Promontoire pointé vers la Sicile, la région du Cap Bon est un vaste jardin où les orangers et les citronniers brandissent leurs fruits d’or au cœur de l’hiver. Ses plages de sable fin comptent parmi les plus belles de Tunisie. Ville principale du Cap Bon, Nabeul est une ville d’artisanat réputée pour sa poterie, ses nattes de jonc et ses essences de fleurs. Le port de pêche de Kélibia, les sources chaudes de Korbous, les fauconniers d’El Haouaria sont quelques-unes des curiosités de cette région."
+                },
+                {
+                    "main": "A Nabeul, flânez dans le souk entouré d’arcades et de boutiques. Au village artisanal, des artisans chevronnés vous surprendront par leur ingéniosité : ferronnerie, nattes de jonc, costumes brodés, cuivre ciselé … Dans les magasins de poterie, marchandez un beau vase en céramique multicolore, la spécialité locale. Le marché couvert vous mettra l’eau à la bouche avec son accumulation d’épices, fruits, légumes et poissons : le Cap Bon est une grande région agricole. Si les forteresses vous font rêver, rendez-vous à Kélibia pour voir le Fort médiéval, le plus grand de Tunisie. Buvez un thé à la menthe au café maure voisin qui surplombe la mer, puis promenez-vous sur le port de pêche. A El Haouaria, à l’extrême pointe du Cap Bon, prenez un grand bol d’air et de nature sauvage et visitez les mystérieuses grottes creusées par les Romains pour extraire la pierre de construction. Ou visitez Korbous, petite ville thermale au charme désuet, entourée de plages et de criques rocheuses.",
+                    "subtitle": "Que voir ?",
+                    "title": "Souks et panoramas"
+                },
+                {
+                    "main": "De Nabeul à Korba, les plages de sable fin et les beaux hôtels balnéaires vous promettent des vacances de rêve. Lézardez sous les parasols, profitez des nombreuses activités sportives ou ludiques : jetski, parachute ascensionnel, promenade à bord d’un vaisseau pirate… Offrez-vous des soins dans un centre de bien-être ou pratiquez la plongée sous-marine à Kélibia ou Hammamet. Tout le long de la côte, les merveilleux paysages marins enchantent les plaisanciers (anneaux au port de Kélibia). Non loin de Nabeul, les golfeurs disposent de deux terrains à Hammamet. Au Cap Bon, collines, vergers et forêts attirent les randonneurs, tandis que les chasseurs y traquent le sanglier. C’est aussi un haut lieu d’observation des oiseaux qui se rassemblent sur les lagunes du littoral et à proximité du détroit de Sicile. Si vous aimez l’histoire, découvrez l’exceptionnel site archéologique de Kerkouane, inscrit sur la liste du patrimoine mondial de l’Unesco (maisons carthaginoises). Admirez le Fort de Kélibia (12e siècle), les mosaïques du musée de Nabeul et les carrières romaines d’El Haouaria.",
+                    "subtitle": "Que faire ?",
+                    "title": "Plage ou tourisme vert"
+                },
+                {
+                    "main": "Réputé pour son art de vivre et ses produits agricoles, le Cap Bon est assurément une région où l’on mange bien. Vous trouverez de nombreux restaurants au centre-ville de Nabeul et à proximité des grands hôtels. Ne manquez pas de goûter la harissa, une préparation de piments (1) broyés et assaisonnés, appréciée en apéritif avec un peu de pain et d’huile d’olive : un condiment haut en saveur ! Les piments, poivrons et tomates des vergers du Cap Bon servent aussi à préparer la salade méchouia : grillés et concassés, ils se dégustent frais avec un filet d’huile d’olive. Ponctuée de ports de pêche, la côte fournit de savoureux poissons qu’on vous servira en garniture d’un couscous (2) ou simplement grillés et accompagnés de tastira – un mélange de légumes et d’œufs frits et hachés. En entrée ou en plat de résistance, régalez-vous de seiches, calamars, crevettes … Sachez que la région est également connue pour ses fruits, et plus particulièrement ses succulentes oranges.",
+                    "subtitle": "Que manger ?",
+                    "title": "Piments et fruits de mer"
+                },
+                {
+                    "main": "Le long de leurs superbes plages de sable fin, Nabeul, Kélibia et Korba proposent un grand choix d’hôtels balnéaires et de clubs de vacances. Simples ou plus luxueux, ils mettent à votre disposition en toute saison une large palette d’activités. Pour être à l’écart des grands centres touristiques, choisissez un petit hôtel en ville ou une maison d’hôtes. Le Cap Bon en compte beaucoup : maisons des médinas, résidences en bord de mer, fermes et cabanes en pleine campagne … On trouve aussi dans la région de nombreuses possibilités de location temporaire, de chambres d’hôtes ou de gîtes loués au mois.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Clubs, hôtels de charme et gîtes ruraux"
+                },
+                {
+                    "main": "Au 4e siècle avant notre ère, la région du Cap Bon était déjà « cultivée en vigne, en oliviers et en une foule d’arbres fruitiers » (Diodore de Sicile). Elle était alors sous la domination de Carthage : le site de Kerkouane en témoigne. Puis, comme toute la Tunisie, elle est devenue romaine puis musulmane. Sa côte a longtemps été exposée à des attaques, comme celle des Normands de Sicile au 12e siècle, puis des Espagnols au 16e siècle. Elle était protégée par la grande forteresse de Kélibia. Avec la paix ottomane, la région a été une terre d’accueil pour des immigrants venus de l’île de Djerba, d’Andalousie, de Turquie, et plus tard de Malte et de Sicile. Récemment encore, Nabeul comptait une très importante communauté juive mêlée étroitement à la communauté musulmane.\nPour en savoir plus : le petit musée archéologique de Nabeul recèle quelques trésors comme des chefs-d’œuvre de mosaïque romaine et des statues carthaginoises en terre cuite. A voir, l’exposition qui explique le fonctionnement d’une conserverie de poisson de l’époque romaine. Au site archéologique de Kerkouane, le petit musée possède des objets carthaginois rares comme des bagues très finement gravées, une statue de bois, un vase importé de Grèce …",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Terre de vignes, terre d’accueil"
+                },
+                {
+                    "main": "Promenez-vous à Nabeul : vous verrez partout des carreaux de faïence aux façades des maisons, décorant les magasins, ornant les édifices publics. Tandis qu’une jarre géante, décorée de motifs traditionnels et entourant un arbre, orne le centre-ville. Impossible d’ignorer que la céramique est la grande spécialité de la ville. Grâce à une carrière d’argile de bonne qualité située à proximité, les Nabeuliens sont potiers depuis la nuit des temps. Ils fabriquent traditionnellement des jarres, bols, vases et pots en terre cuite vernissée de couleur jaune et verte, rehaussée de motifs brun foncé. Depuis le début du 20e siècle, les potiers de Nabeul se sont spécialisés dans les carreaux de faïence polychrome, reprenant les décors des palais et monuments anciens de Tunisie. Ils proposent aujourd’hui toute une gamme de produits, depuis les panneaux de céramique de style ottoman jusqu’à la vaisselle design, en passant par les vases à fond blanc luisant décorés de couleurs éclatantes. On peut aussi acheter des carreaux de faïence à motifs traditionnels produits par les usines implantées à Nabeul ; une manière économique et originale de personnaliser son intérieur au retour des vacances !",
+                    "title": "La céramique de Nabeul"
+                }
+            ]
+        },
+        {
+            "name": "Hammamet",
+            "lat": 36.3952846,
+            "log": 10.6171377,
+            "img": "4",
+            "good": "Commissariat au Tourisme de Nabeul \nTél. 72 286 800 / 72 286 737 / 72 287 065\ncrt.nabeul@ontt.tourism.tn\nCommissariat au Tourisme de Hammamet Sud\nTél. : 72 244 103 / 72 240 434\ncrt.yasminehammamet@ontt.tourism.tn\nMarché hebdomadaire : le mercredi.\nFestival international de Hammamet : musique, théâtre (juillet-août)",
+            "transport": "Hammamet est desservi par les aéroports de Tunis-Carthage (70 km) et Enfidha-Hammamet (50 km). Un service d’autocars rapides et confortables est assuré depuis la gare routière de Tunis. En ville et dans les environs proches, héler un taxi.",
+            "shopping": "De nombreuses boutiques d’artisanat et de souvenirs se trouvent à proximité des hôtels et dans les souks de Hammamet. Achetez-y de la vaisselle en céramique de Nabeul, des klims et des tapis à points noués, des foutas (serviettes de hammam) à rayures pastels ou des souvenirs en cuivre martelé. Au centre-ville, des boutiques de mode vous donnent accès à des produits très variés et à des prix intéressants : vêtements de cuir, chaussures, bijoux précieux ou de fantaisie…",
+            "slides": [
+                {
+                    "main": "Station trépidante en été, réputée pour ses plages et son sens de la fête, Hammamet est aussi une petite ville au cachet authentique. Une mer de turquoise, des senteurs de jasmin, des maisons blanches et des remparts dorés par les siècles … Une poésie particulière se dégage de sa médina bordée de sable fin. A proximité, la nouvelle station de Yasmine Hammamet offre un décor plus contemporain, tandis que les forêts et les champs de citronniers ont de quoi réjouir les amoureux de la nature."
+                },
+                {
+                    "main": "Flânez à travers la médina au charme intemporel avec ses ruelles étroites et ses maisons revêtues de chaux bleu. A l’angle de la muraille, le Fort hispano-turc (16e siècle) offre une merveilleuse vue sur la baie. Faites une pause au célèbre café Sidi Bouhadid : la coupole de ce saint protecteur des marins veille sur le rivage, elle vous accueillera pour un thé à la menthe ou une boisson rafraîchissante. Admirez les jardins de jasmin et les belles villas comme Dar Sebastian (voir p. 35). A la nouvelle station de Yasmine Hammamet, au sud de la ville, promenez-vous le long du port de plaisance et des larges avenues, faites une pause dans un beach-club ou à “Medina Mediterranea”, un parc à thème avec des murs crénelés et des souks comme dans une vieille ville arabe. Envie de nature et d’authenticité ? Partez à la découverte de l’arrière-pays contrasté pour visiter la petite ville andalouse de Zaghouan et le village perché de Takrouna.",
+                    "subtitle": "Que voir ?",
+                    "title": "Médina ou marina"
+                },
+                {
+                    "main": "Reine des plages et des sports nautiques, Hammamet est une destination de vacances par excellence. Vibrez aux soirées DJ des célèbres clubs de la ville, essayez-vous au paint-ball ou à la patinoire … En été, retrouvez vos stars préférées au Festival International de Hammamet dans le théâtre de plein air ou profitez du casino et des dîners-spectacles de Yasmine Hammamet. Enchaînez les swings au milieu des collines dans les deux golfs Citrus et Yasmine Valley (45 et 18 trous). Faites une pause de bien-être dans un spa ou un centre de thalassothérapie. En famille, rendez-vous au parc d’attractions Carthage Land ou au parc animalier Friguia Park (30 km). Plaisanciers, louez un bateau sur la marina pour parcourir les rivages du Cap Bon. Amoureux de la nature, le mont Zaghouan vous attend pour une randonnée ou pour observer les rapaces. Et si vous êtes férus d’histoire, découvrez les spectaculaires sites romains de Thuburbo Majus et Oudhna.",
+                    "subtitle": "Que faire ?",
+                    "title": "Golf ou clubbing"
+                },
+                {
+                    "main": "Station balnéaire cosmopolite, Hammamet vous offre un grand choix de restaurants plus particulièrement autour de la vieille ville et du Centre Culturel International. En couple ou entre amis, passez d’inoubliables moments dans un restaurant des toits de la médina autour d’une chaleureuse cuisine méditerranéenne. Partagez un repas de poissons fraîchement pêchés dans un patio ombragé lors d’une douce soirée d’été. Préférez un cadre plus chic et contemporain sur la marina de Yasmine Hammamet. Ou choisissez un authentique restaurant italien qui vous régalera de risotto fondant et desserts gourmands – de nombreux Italiens vivent à Hammamet et la Sicile n’est qu’à deux cents kilomètres … Vous pourrez aussi grignoter tout simplement quelques encas typiquement tunisiens. Par exemple, une brik à l’œuf : une feuille croquante garnie d’un œuf mi-cuit, relevé de câpres et de persil. Ou une ojja, œufs brouillés dans une sauce pimentée, agrémentés de crevettes ou de merguez. Et pour un plaisir sucré, offrez-vous une glace artisanale ou un cocktail de jus de fruits gorgés de soleil !",
+                    "subtitle": "Que manger ?",
+                    "title": "Ojja ou carpaccio"
+                },
+                {
+                    "main": "Palaces, clubs de vacances ou hôtels traditionnels, tous les choix existent à Hammamet. Autour de la ville, de nombreux hôtels balnéaires au charme typiquement tunisien bordent les plages. Pour d’inoubliables vacances en famille, ils offrent de vastes parcs fleuris, des terrasses ombragées de tonnelles, des piscines et des activités pour tous les âges. Plus récents, les hôtels de Yasmine Hammamet rivalisent d’originalité, entre ambiance des mille et une nuits et architecture contemporaine. Autres options : une maison d’hôtes dans la médina de Hammamet ou un confortable gîte rural à Zaghouan.",
+                    "subtitle": "Où dormir ?",
+                    "title": "De grands hôtels de plage, des maisons d’hôtes authentiques"
+                },
+                {
+                    "main": "Avant de devenir un paisible village de pêcheurs et de cultivateurs, Hammamet était au Moyen Age un village fortifié, occupé par une communauté d’ascètes qui surveillaient le littoral et donnaient l’alerte en cas d’attaque. Son fort, qui occupe l’angle de la muraille, a été agrandi au 16e siècle par les Turcs en guerre contre les Espagnols pour le contrôle de la Tunisie. L’arrière-pays de Hammamet était prospère dans l’Antiquité, comme le montrent le site de Thuburbo Majus et son magnifique capitole. Du mont Zaghouan partait le gigantesque aqueduc romain qui approvisionnait en eau la cité de Carthage ; sa source sacrée jaillissait au Temple des Eaux. Au 17e siècle, des Andalous chassés d’Espagne se sont installés à Zaghouan donnant au village son cachet particulier. Plus au sud, aux sommets d’une ligne de crêtes escarpées, des petits villages berbères comme Takrouna dominent toute la plaine.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Romains, Turcs et Andalous"
+                },
+                {
+                    "main": "A Hammamet, beaucoup d’anciennes maisons de pêcheurs sont aujourd’hui occupées par des artistes. Ils sont peintres, acteurs, architectes ou galeristes tunisiens, italiens, français ou américains. Certains organisent des fêtes somptueuses tandis que d’autres se contentent de savourer la douceur des soirées d’été sur les toits de la médina.\nCette tradition remonte à loin. Dans les années 1930, un milliardaire roumain, George Sebastian, a choisi de vivre à Hammamet et de s’y construire une superbe villa s’inspirant de l’architecture locale et du style Art déco. Il y organisait des réceptions brillantes où se retrouvaient artistes et écrivains du monde entier. Winston Churchill y a séjourné pour écrire ses mémoires. C’est ainsi que Hammamet est devenue une ville à la mode, accueillant Giacometti, Man Ray, André Gide, Le Corbusier, Visconti, Jean Cocteau, Guy Laroche et bien d’autres. Entourée d'un luxuriant jardin botanique, la maison de Dar Sebastian est ouverte au public. C'est aujourd’hui le Centre Culturel International de Hammamet.",
+                    "title": "Hammamet et la jet set"
+                }
+            ]
+        },
+        {
+            "name": "Tunis",
+            "lat": 36.7986629,
+            "log": 10.1780996,
+            "img": "5",
+            "good": "Commissariat au Tourisme de Tunis\nTél. : 71 840 622 / 71 845 618\ncrt.tunisnord@ontt.tourism.tn\nCommissariat au Tourisme de Tunis-Sud\nTél. : 71 890 418\ncrt.tunissud@ontt.tourism.tn\nFestivals\nFestival de la Médina : musiques soufies, arabo-andalouses (mois de Ramadan)\nDream City : biennale d’art contemporain (novembre)",
+            "transport": "Le métro léger (tramway) dessert toute la capitale, mais le taxi reste un moyen pratique et peu onéreux pour se déplacer. Les stations balnéaires du sud de Tunis (Ezzahra, Borj Cedria) sont desservies par train depuis la Gare centrale, et sa banlieue nord, par le train TGM reliant la gare de Tunis-Marine à la Goulette et la Marsa.",
+            "shopping": "Dans la médina, vous trouverez les spécialités les plus raffinées de l’artisanat tunisien : robes brodées de soie, coffrets et bijoux en argent ciselé, ou encore chéchias, les bonnets traditionnels en feutre rouge, réalisés aujourd’hui dans tous les coloris. Les quartiers modernes comptent plusieurs centres commerciaux où sont présentes aussi bien les grandes marques internationales que des boutiques de design et de création artisanale.",
+            "slides": [
+                {
+                    "main": "Cité moderne en pleine expansion et grande ville d’histoire, Tunis n’en finit pas de surprendre. Du côté de la médina, de nombreux édifices anciens ouvrent leurs portes, les uns transformés en musées ou lieux de culture, les autres en restaurants ou en salons de thé. Inscrite par l’Unesco sur la liste du patrimoine mondial, la médina recèle des merveilles. A ses portes s’étendent des quartiers pittoresques aux belles façades 1900 tandis qu’en périphérie, restaurants chics et lieux de loisirs se succèdent dans les nouveaux quartiers."
+                },
+                {
+                    "main": "La partie ancienne de Tunis, la médina, est exceptionnellement bien conservée. Les souks, couverts de voûtes laissant passer une lumière tamisée, grouillent d’animation et regorgent de marchandises de toutes sortes : tissus aux mille couleurs, parfums ou bijoux précieux. Le contraste est saisissant avec la sérénité des ruelles voisines. Murs blancs et ferronneries bleues, passages voûtés, coupoles de tuiles vertes, portes jaunes encadrées de délicats dessins de pierre sculptée… Il faut savoir flâner pour apprécier toute la diversité de la médina.\nCôté ville moderne, les quartiers entourant l’avenue Bourguiba ont leur cachet particulier. Au pied des immeubles de style Art nouveau et Art déco, une foule active se presse entre les cafés populaires, les boutiques de mode, les tramways et les rangées de palmiers et de ficus. Visitez le marché central débordant de victuailles. Buvez un soda en terrasse en admirant la façade sculptée du Théâtre municipal, inauguré en 1902, et la statue d’Ibn Khaldoun, grand penseur né à Tunis au 14e siècle.",
+                    "subtitle": "Que voir ?",
+                    "title": "Médina et immeubles Art déco"
+                },
+                {
+                    "main": "Dans la médina de Tunis, vous pourrez visiter des monuments remarquables, assister à une exposition photographique au palais Kheireddine, écouter un concert de musique arabo-andalouse dans une ancienne médersa ou assister à la biennale d’art contemporain Dream City. Au centre-ville, visitez la cathédrale de style byzantino-mauresque, toujours en activité. Ecoutez un concert de musique classique au Théâtre municipal, construit en 1902, ou promenez-vous au parc du Belvédère. Jouez au golf (deux parcours près de Tunis) ou profitez du parc d’attractions Carthage Land. Pour une soirée branchée, rendez-vous au nouveau quartier à la mode, les Berges du Lac, ou à La Goulette, autrefois villégiature préférée des juifs de Tunis. La mer n’est pas loin du centre-ville : vous trouverez des plages et de nombreuses activités à Borj Cedria et Ezzahra, à 20 km. Amateurs d’histoire, visitez le site archéologique d’Oudhna (à 25 km). Et non loin de Tunis, profitez de tous les attraits des Côtes de Carthage.",
+                    "subtitle": "Que faire ?",
+                    "title": "Culture ou soirées branchées"
+                },
+                {
+                    "main": "Dans les souks de la médina, vous trouverez de délicieux en-cas pour les petites faims : la célèbre brik à l’œuf dorée et croquante, le petit sandwich fricassé, l’assiette de kaftaji (légumes d’été à l’œuf, frits et concassés) ou le bol de lablabi (soupe de pois chiches piquante). En vous attablant dans un ancien palais ou fondouk (Caravansérail) converti en restaurant, vous goûterez au meilleur de la gastronomie tunisienne : le couscous au mérou, aux coings et aux boutons de roses ; l’assiette de légumes farcis fondouk el ghalla ; l’agneau sucré-salé mijoté aux pruneaux et aux amandes marqa h’loua … Au dessert, goûtez la crème à la pistache bouza ou les pâtisseries parfumées à l’eau de rose. Pour une ambiance plus moderne, rendez-vous au nouveau quartier des Berges du Lac. Vous y mangerez des sushis, des lasagnes aux fruits de mer ou un faux-filet sauce roquefort en contemplant le Lac de Tunis.",
+                    "subtitle": "Que manger ?",
+                    "title": "Kaftaji ou lasagnes aux fruits de mer"
+                },
+                {
+                    "main": "Au centre-ville, dans les nouveaux quartiers ou au cœur de la médina, le choix est large. Vous pourrez loger dans un hôtel d’affaires ou un palace international. Pour un séjour plus romantique, optez pour un hôtel dans le style des années 1920. En choisissant une chambre d’hôtes de la médina, vous entrerez dans l’intimité des quartiers historiques de Tunis : cuisine traditionnelle, bonnes adresses et patrimoine historique. Si vous voulez profiter du bord de mer, vous trouverez des hôtels balnéaires à Ezzahra et Borj Cedria, au sud de Tunis.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Hôtel d’affaires international ou chambre d’hôtes dans la médina"
+                },
+                {
+                    "main": "Petite ville berbère à l’origine, Tunis a pris de l’importance après la chute de sa voisine Carthage, jusqu’à devenir la capitale du pays au 11e siècle. Puis les sultans hafsides, qui régnaient sur une grande partie du Maghreb, en ont fait une ville brillante en attirant les élites d’Andalousie. Après la conquête ottomane, au 16e siècle, des influences italiennes et turques ont donné aux quartiers anciens un charme particulier. Dans la médina, admirez la Grande mosquée Zitouna, du 9e siècle, et les mosquées turques décorées de marbre. Visitez le monument Tourbet el-Bey, qui abrite les tombes de la famille beylicale, les élégantes médersas du 18e siècle, les palais richement décorés de céramique et d’arabesques de plâtre ciselé. Observez aussi les souks centraux, rues couvertes réservées au commerce et à l’artisanat : bijoux, habits traditionnels brodés et chéchias, ces couvre-chefs en feutre rouge typiques de la Tunisie.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Sultans, beys et médina"
+                },
+                {
+                    "main": "Le musée de mosaïques le plus fabuleux au monde se trouve à Tunis dans l’ancien palais beylical du Bardo, entièrement rénové et agrandi en 2012. Ce musée possède une collection unique d’antiquités romaines auxquelles s’ajoutent des témoignages de toute l’histoire de la Tunisie, depuis l’ancienne Carthage jusqu’à l’époque ottomane. Dès l’entrée, dans un puits de lumière, laissez-vous captiver par l’immense mosaïque égrenant des scènes mythologiques autour du char du dieu Neptune. Puis contemplez les étranges déesses carthaginoises, les œuvres d’art hellénistique repêchées au large de Mahdia, les statues de marbre qui ornaient les temples romains. Vous découvrirez aussi le patrimoine juif de la Tunisie et de mystérieuses stèles portant des divinités numides. L’art islamique de la Tunisie est à l’honneur : astrolabes, manuscrits précieux, coupes de céramique, sans oublier la riche décoration du palais lui-même. Mais surtout, vous ne vous lasserez pas de parcourir un à un les innombrables chefs-d’œuvre dus aux mosaïstes de Tunisie, qui étaient les plus réputés du monde romain. Réalistes, vivants et finement nuancés, ces tableaux racontent les aventures d’Ulysse et les travaux des champs, les jeux de l’amphithéâtre et les dieux de l’Olympe … Bref un voyage passionnant dans le temps.",
+                    "title": "Le Musée du Bardo"
+                }
+            ]
+        },
+        {
+            "name": "Carthage et Sidi Bou Saïd",
+            "lat": 36.8687294,
+            "log": 10.3458355,
+            "img": "6",
+            "good": "Commissariat au Tourisme de Tunis\nTél. : 71 840 622 / 71 845 618\ncrt.tunisnord@ontt.tourism.tn\nFestivals\nJazz à Carthage (avril) \nOctobre musical de Carthage : musique classique \nFestival international de Carthage : musique, théâtre (juillet-août)",
+            "transport": "L’aéroport de Tunis-Carthage est à 20 km des hôtels de Gammarth. Le petit train TGM dessert La Marsa, Sidi Bou Saïd, Carthage, la Goulette et Tunis. Des lignes de cars rapides relient la région à Tunis. Pour visiter Carthage, on peut convenir d’un forfait avec un taxi pour se rendre sur les différents sites dispersés dans la ville moderne.",
+            "shopping": "Le site de Carthage est certainement un des plus beaux de Méditerranée. Aujourd’hui encore, on reste fasciné par la baie aux reflets de turquoise, les maisons blanches entourées de cyprès, et au loin la silhouette du mont Boukornine qui se découpe dans la brume. Découvrez des fragments d’histoire au hasard des rues de la Carthage moderne : les restes de la basilique Saint-Cyprien surplombant la mer, les maisons carthaginoises du quartier Magon, les Ports puniques où règne une étonnante sérénité… Puis remontezles ruelles pavées du célèbre village voisin,Sidi Bou Saïd, entremoucharabiehs bleus, bougainvillées roses et volutes de fer forgé. Faites une pause au café des Nattes pour son ambiance traditionnelle. Contemplez le merveilleux paysage marin depuis le café Sidi Chabaane, le phare ou le vieux cimetière. De nombreux artistes ont choisi de vivre dans ce village inspiré. A proximité, La Marsa et son front de mer, Gammarth et ses longues plages attirent les habitants de Tunis en quête de lieux de détente.",
+            "slides": [
+                {
+                    "main": "Tout près de la capitale, un site prestigieux et des panoramas saisissants : telles se présentent les Côtes de Carthage, du nom d’une des plus glorieuses cités antiques de la Méditerranée. Fondée par les Phéniciens, détruite puis reconstruite par les Romains, Carthage est aujourd’hui une ville à la mode. A côté, Sidi Bou Saïd est un village raffiné dont les maisons blanches et bleues se bousculent à flanc de colline face à la mer. Près de ces lieux inspirés s’étendent les plages de Gammarth et la Marsa."
+                },
+                {
+                    "main": "Le site de Carthage est certainement l'un des plus beaux de la Méditerranée. Aujourd’hui encore, on reste fasciné par la baie aux reflets de turquoise, les maisons blanches entourées de cyprès, et au loin la silhouette du mont Boukornine qui se découpe dans la brume. Découvrez des fragments d’histoire au hasard des rues de la Carthage moderne : les restes de la basilique Saint-Cyprien surplombant la mer, les maisons carthaginoises du quartier Magon, les Ports puniques où règne une étonnante sérénité … Puis remontez les ruelles pavées du célèbre village voisin, Sidi Bou Saïd, entre moucharabiehs bleus, bougainvilliers roses et volutes de fer forgé. Faites une pause au café des Nattes pour son ambiance traditionnelle. Contemplez le merveilleux paysage marin depuis le café Sidi Chabaane, le phare ou le vieux cimetière. De nombreux artistes ont choisi de vivre dans ce village inspiré. A proximité, La Marsa et son front de mer ainsi que Gammarth et ses longues plages attirent les habitants de Tunis en quête de lieux de détente.",
+                    "subtitle": "Que voir ?",
+                    "title": "Histoire et poésie"
+                },
+                {
+                    "main": "Le site de Carthage est inscrit sur la liste du patrimoine mondial de l’Unesco et mérite une longue visite. L’accumulation de vestiges sur une zone immense permet d’imaginer la cité antique : réservoirs d’eau d’une capacité de 60 millions de litres, gigantesques thermes romains, mode de vie raffiné. Au Musée archéologique, on découvrira l’art et les rites religieux de la Carthage punique. Aujourd’hui, Carthage et les villes voisines restent des centres de culture avec de nombreuses galeries d’art. Spectacles et concerts sont donnés à l’Acropolium (ancienne cathédrale), au palais médiéval Abdelliya, dans la maison du baron d’Erlanger. La région est aussi dédiée aux loisirs : hôtels balnéaires, sports nautiques, centres de thalasso, deux parcours de golf, port de plaisance à Sidi Bou Saïd. La vie nocturne y est riche : restaurants, lounges, discothèques, festivals de jazz (Jazz à Carthage) et de musique classique (Octobre musical). En été, le théâtre antique accueille des spectacles internationaux lors du Festival international de Carthage.",
+                    "subtitle": "Que faire ?",
+                    "title": "Culture et vie nocturne"
+                },
+                {
+                    "main": "Ancienne villégiature des bourgeois de Tunis et de la famille beylicale, les Côtes de Carthage sont l'une des régions les plus réputées de Tunisie pour la gastronomie. L’authentique tradition culinaire de la capitale y reste à l’honneur. Dégustez par exemple le kabkabou, poisson mijoté aux olives et au citron confit. En entrée, goûtez le tajine tunisien – omelette épaisse aux légumes et fromage, proche de la tortilla espagnole – et la salade mechouia – tomates et poivrons grillés et concassés. A Sidi Bou Saïd, Carthage ou La Marsa, le choix de restaurants est large. Vous pourrez déguster des recettes traditionnelles tunisiennes dans un décor de palais ottoman, une cuisine méditerranéenne inventive dans un restaurant chic surplombant la mer, des snacks accompagnés de cocktails dans un bar branché ou de bons plats italiens dans une ambiance décontractée. En visitant Sidi Bou Saïd, offrez-vous un bambalouni, gros beignet chaud en forme d’anneau puis buvez un thé à la menthe et aux pignons de pin au célèbre café des Nattes.",
+                    "subtitle": "Que manger ?",
+                    "title": "Raffinements culinaires"
+                },
+                {
+                    "main": "Les plages de Gammarth sont bordées de grands hôtels balnéaires de toutes catégories, depuis le simple hôtel-club jusqu’au palace inspiré des palais mauresques. D’autres possibilités d’hébergement, moins classiques, s’offrent à vous. Si vous êtes séduit par le village de Sidi Bou Saïd, vous pourrez y habiter dans un hôtel de charme ou une maison d’hôtes. Si vous recherchez plus de modernité et un confort haut de gamme, choisissez une résidence de luxe dans la forêt de Gammarth, un boutique-hôtel à Carthage ou sur la corniche de La Marsa.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Palaces et maisons d’hôtes"
+                },
+                {
+                    "main": "Carthage a été fondée par la reine phénicienne Elyssa, connue aussi sous le nom de Didon. L'une des plus puissantes métropoles de l’Antiquité, elle étendait son emprise jusqu’à la Sardaigne et à l’Espagne. Longtemps rivaux des Grecs, les Carthaginois (appelés aussi Puniques) étaient d’excellents navigateurs, des commerçants et des agriculteurs avisés. Mais malgré les victoires du célèbre général Hannibal, les Romains conquirent Carthage et en firent l'une cités les plus somptueuses de leur empire. Plus tard, Saint Augustin, l'un des pères de l’église d’Occident, y a étudié. Au musée de Carthage, vous ferez connaissance avec la civilisation punique : statuette du dieu Baal assis sur son trône, masques en terre cuite, stèles gravées portant le mystérieux “signe de Tanit”. Sur le site lui-même, vous verrez les anciens ports intérieurs puniques, des vestiges de maisons et le sanctuaire appelé Tophet. Quant aux nombreux vestiges romains, ils témoignent d’un raffinement exceptionnel.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Carthage, ville phare de l’Antiquité"
+                },
+                {
+                    "main": "A Sidi Bou Saïd, les portes sont le sourire des maisons. Peintes en bleu ou en jaune vif, arquées ou rectangulaires, encadrées de pierre sculptée, de céramique ou de marbre blanc et noir… chacune a son style. Les plus belles sont décorées de gros clous noirs savamment disposés en étoiles, en rosaces, en forme de cyprès ou de poissons. Au cours de votre promenade, n’hésitez pas à quitter la rue principale pour explorer les ruelles : à chaque pas, une nouvelle porte vous surprendra. Sidi Bou Saïd était autrefois le lieu de vacances favori des familles privilégiées de Tunis. Au bord de la mer, elles y reconstituaient leur mode de vie raffiné sous la protection du tombeau de Sidi Abou Saïd, saint homme du 13e siècle. Derrière les murs simplement blanchis à la chaux se cachent parfois de véritables palais. L’un d’eux a été édifié par un Européen tombé amoureux du village en 1912, le baron Rodolphe d’Erlanger ; transformé en musée, il accueille aujourd’hui des concerts. D’autres maisons sont devenues des galeries d’art ou des maisons d’hôtes.",
+                    "title": "Maisons et palais de Sidi Bou Saïd"
+                }
+            ]
+        },
+        {
+            "name": "Le Kef",
+            "lat": 36.1698716,
+            "log": 8.7087264,
+            "img": "7",
+            "good": "Commissariat au Tourisme de Sbeïtla\nTél. : 77 466 506 / 77 466 507 / 77 466 548\ncrt.sbeitla@ontt.tourism.tn\nMarchés hebdomadaires\nLundi : Makthar. Mardi : Kasserine. Mercredi : Sers, Sbeïtla. Jeudi : Le Kef, Siliana. Samedi : Sidi Bouzid. \nFestivals\nPrintemps de Sbeïtla : spectacles vivants, musique (mai) \n24 Heures de Théâtre Non Stop du Kef (mars).",
+            "transport": "Depuis Tunis, on peut se rendre au Kef en train ou en louage (170 km dont 70 par autoroute). Sbeïtla est à 120 km du Kef et à 30 km de Kasserine.",
+            "shopping": "Dans les régions montagneuses de l’Ouest, on fabrique de la poterie modelée à la main sans tour de potier : braseros, plats et marmites. Les couvertures de laine tissées dans la région du Kef sont d’une finesse remarquable, alternant les rayures aux coloris raffinés. Vous pourrez préférer les tissages bédouins pour leurs couleurs éclatantes, obtenues avec des pigments naturels.",
+            "slides": [
+                {
+                    "main": "Quittez Tunis et les plages du littoral pour découvrir un visage méconnu de la Tunisie : les montagnes de l’Atlas et les steppes des hauts plateaux. Dans ces paysages contrastés du grand Ouesttunisien se niche Le Kef, petite ville au charme préservé et au passé mouvementé. Car la beauté de la nature n’est pas le seul attrait de cette région : riche en souvenirs historiques, elle a conservé d’innombrables vestiges antiques dont la forteresse ottomane."
+                },
+                {
+                    "main": "Les puissants reliefs de la chaîne de l’Atlas offrent des panoramas saisissants, par exemple depuis la forteresse ottomane du Kef. On contemplera aussi de superbes vues sur les montagnes du haut de la Table de Jugurtha .Promenez-vous dans la vieille ville du Kef, qui s’étage en cascade face à des paysages vallonnés. Un de ses attraits est l’imbrication demonuments et vestiges de toutes les époques et de toutes les religions. Vous rencontrerez ainsi desciternes et des thermes romains, une église antique dédiée à Saint Pierre, une synagogue juive du 18e siècle qui estégalement vénérée par les musulmans de la ville, et trois cimetières contigus : musulman, juif et chrétien.Mais le monument emblématique du Kef est le mausolée de Sidi Bou Makhlouf, avec ses coupoles blanches côtelées et son minaret octogonal ornée de céramique vert émeraude.",
+                    "subtitle": "Que voir ?",
+                    "title": "Montagnes et médina"
+                },
+                {
+                    "main": "Partez en randonnée sur les sentiers de montagne, en forêt ou au bord d’un lac. Traversez des villages, regardez le travail des artisans qui tressent l’alfa, et des artisanes qui tissent tapis et couvertures. Découvrez des grottes, desmégalithes, des vestiges de villes romaines ou des sources thermales. Dans la réserve naturelle de Saddine près du Kef, observez des espèces animales remarquablescomme le porc-épic et l’aigle royal. Dans la vieille ville du Kef, visitez le musée des Arts et traditions populaires, qui occupe un magnifique édifice religieux du 18e siècle ; vous saurez tout sur la tradition équestre, les bijoux du Nord-Ouest, ou encore le mode de vie sous la tente bédouine. Visitez aussi la Kasbah (forteresse) ottomane quitenaitla frontière face à l’Algérie : elle est composée de deux forts, l’un où résidaient les janissaires turcs, et l’autre destiné aux troupes auxiliaires.",
+                    "subtitle": "Que faire ?",
+                    "title": "Culture et randonnée"
+                },
+                {
+                    "main": "Découvrez la gastronomie originale des régions de l’Ouest et les produits d’un terroir généreux. Au Kef, on prépare un couscous sucré-salé très particulierappeléberzguen : arrosé de lait, accompagné d’agneau parfumé au romarin des montagnes, de fruits secs et de dattes, c’est leplat des jours de fête. Un autre plat régional est le malthouth, orge concassée préparée comme un couscous. Goûtez le rustique pain d’orge, ou des recettes ancestrales comme le zrir, une crème de sésame aux noisettes.",
+                    "subtitle": "Que manger ?",
+                    "title": "Orge et couscous aux dattes"
+                },
+                {
+                    "main": "Ville principale de la région, Le Kef offre un choix de petits hôtels ou de chambres d’hôtes dans la médina. On peut également se loger àproximité de la ville, dans des fermes aménagées en confortables gîtes ruraux.",
+                    "subtitle": "Où dormir ?",
+                    "title": "A la campagne ou dans la médina"
+                },
+                {
+                    "main": "Très prospères dans l’Antiquité, les régions de l’ouest sont d’une rare richesse pour les amateurs d’archéologie. Le site de Makthar, l'un des plus étendus de Tunisie, compte des vestiges spectaculaires comme l’Arc de Trajan, les Grands Thermes et l’élégante colonnade de la “Schola de Juvenes”. Le site de Sbeïtla est remarquable par son capitole, composé non pas d’un, mais de trois temples dédiés à Minerve, Jupiter et Junon, les dieux protecteurs de Rome. A Haïdra, on trouve les vestiges d’une des plus grandes forteresses byzantines du Maghreb, et de plusieurs églises chrétiennes. Les régions de l’ouest comptent en effet de très nombreux vestiges du christianisme antique. A Sbeïtla, la vaste église de Vitalis possède une superbe cuve pour le baptême recouverte de mosaïques. En pleine nature, les arcades d’El Gousset sont tout ce qui reste d’une grande église de 33 mètres de longueur. Des vestiges qui rappellent que la Tunisie a été un pôle majeur du christianisme d’Occident.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Les sites archéologiques de l’Ouest"
+                },
+                {
+                    "main": "Jugurtha était un fameux prince berbère de l’Antiquité, héros de la résistance à la conquête romaine.Son grand-père Massinissa avait créé un grand royaume à côté du territoire de Carthage, au 2e siècle av. J.-C. Villes, temples et monuments s’étaient alors multipliés au Maghreb central et dans le Nord-Ouest de la Tunisie. \nLa Table deJugurthaest une montagne tabulaire de 80 hectares culminant à 1271 mètres ; une véritable forteresse naturelle qui a servi de refuge tout au long de l’histoire. Le prince berbères’y était retranché avec son armée lors de sa guerre contre les Romains. Entièrement entourée de falaises abruptes, elle domine de vastes champs de blé et des collines à perte de vue.Il faut gravir un escalier antique creusé dans le rocher pour atteindre ce plateau, et découvrir une vue époustouflante à 360° sur le paysage environnant. Sur le site, on trouve de nombreux vestiges: dolmens, arc byzantin, petite mosquée, réservoirs creusés dans la roche, grottes et tombes préhistoriques…",
+                    "title": "La Table de Jugurtha"
+                }
+            ]
+        },
+        {
+            "name": "Sbeitla",
+            "lat": 35.2393519,
+            "log": 9.1183474,
+            "img": "8",
+            "good": "Commissariat au Tourisme de Sbeïtla\nTél. : 77 466 506 / 77 466 507 / 77 466 548\ncrt.sbeitla@ontt.tourism.tn\nMarchés hebdomadaires\nLundi : Makthar. Mardi : Kasserine. Mercredi : Sers, Sbeïtla. \nFestivals\n \nPrintemps de Sbeïtla : spectacles vivants, musique (mai) ",
+            "transport": "Sbeitla est à 250 km de Tunis, 215 km de Tozeur et 30 km de Kasserine.",
+            "shopping": "",
+            "slides": [
+                {
+                    "main": "Sbeitla est une petite ville du centre ouest de la Tunisie située à 250 km de Tunis. Sbeitla est connu par son site romain ramarquableet son capitole, composé non pas d’un, mais de trois temples dédiés à Minerve, Jupiter et Junon, les dieux protecteurs de Rome."
+                },
+                {
+                    "main": "Très prospères dans l’Antiquité, les régions de l’Ouest sont d’une rare richesse pour les amateurs d’archéologie. Le site de Makthar, un des plus étendus de Tunisie, comptedes vestiges spectaculaires comme l’Arc de Trajan, les Grands Thermes et l’élégante colonnade de la “Schola de Juvenes”.. A Haïdra, on trouve les vestiges d’une des plus grandes forteresses byzantines du Maghreb, et de plusieurs églises chrétiennes. Les régions de l’Ouest comptent en effet de très nombreux vestiges du christianisme antique. A Sbeïtla, la vaste église de Vitalis possède une superbe cuve pour le baptême recouverte de mosaïque. En pleine nature, les arcades d’El Gousset sont tout ce qui reste d’une grande église de 33 mètres de longueur. Des vestiges qui rappellent que la Tunisie a été un pôle majeur du christianisme d’Occident.",
+                    "subtitle": "Que voir ?",
+                    "title": "Les sites archéologiques de l’Ouest"
+                },
+                {
+                    "main": "Quelques hôtels à Kasserine et près du site archéologique de Sbeïtla.",
+                    "subtitle": "Où dormir",
+                    "title": "Hébergement"
+                }
+            ]
+        },
+        {
+            "name": "Sousse et Port El Kantaou",
+            "lat": 35.8902213,
+            "log": 10.5971617,
+            "img": "9",
+            "good": "Commissariat au Tourisme de Sousse\nTél. : 73 225 157 / 73 225 158 / 73 210 943\ncrt.sousse@ontt.tourism.tn\nFestivals\nFestival international de Sousse : musique, théâtre (juillet-août)\nMarché hebdomadaire\nLe dimanche.",
+            "transport": "Aéroports internationaux à Monastir (20 km de Sousse) et Enfidha (35 km de Port El Kantaoui). Une ligne de train relie Sousse à Tunis, Monastir, Mahdia, Sfax. Une ligne de trains régionaux permet de se rendre facilement à Monastir ou à Mahdia en passant par les villages de Lemta (site archéologique) et Moknine (ateliers de poterie).",
+            "shopping": "Les souks de Sousse regorgent de produits de l’artisanat tunisien comme les épais tapis de Kairouan, les lampes de cuivre ciselé, les robes brodées, les services à thé en céramique décorée, les pantoufles de cuir multicolores… Remarquez les beaux objets en bois d’olivier : statuettes, couverts et ustensiles de cuisine. Achetez de l’huile provenant des oliveraies de la région.",
+            "slides": [
+                {
+                    "main": "Longues plages, vieilles pierres, hauts palmiers… Sousse est une ville pleine de séductions où loisirs et exotisme se conjuguent harmonieusement. Grande ville moderne, c’est l'une des stations balnéaires les plus animées de Tunisie. Ville d’histoire, elle a conservé une magnifique médina et d’exceptionnels monuments du haut Moyen Age. A quelques minutes, une petite ville touristique au cachet andalou a été construite spécialement pour les vacanciers, autour d’une marina : la station intégrée de Port El Kantaoui."
+                },
+                {
+                    "main": "Inscrite par l’Unesco au patrimoine mondial, la médina de Sousse s’étage à flanc de colline, face à la mer. C’est un plaisir de parcourir les ruelles à l’atmosphère d’un autre temps, de marchander dans les souks. Dominée par la haute silhouette de la Tour Khalef, la vieille ville a conservé ses remparts médiévaux et de nombreux monuments qui témoignent de son passé de place forte : le Ribat, fortin et lieu de retraite religieuse, la Grande Mosquée aux allures de forteresse, l’imposante Kasbah. Troisième ville de Tunisie, Sousse possède un centre-ville animé avec de nombreux commerces et lieux de loisirs, et une superbe promenade en front de mer. A quelques minutes, parcourez les quais du port de plaisance de Port El Kantaoui. Respirez l’air de la campagne environnante : autour de la ville se trouvent des champs, des villages et surtout les immenses oliveraies qui font la richesse de la région depuis l’époque antique.",
+                    "subtitle": "Que voir ?",
+                    "title": "Mer et histoire"
+                },
+                {
+                    "main": "Sable fin, piscines, activités nautiques … Les très nombreux hôtels de Sousse répondent à toutes les envies de vacances. L’El Kantaoui Golf Course (36 trous) est plébiscité par les joueurs du monde entier. De beaux spas et centres de thalasso prendront soin de votre forme hiver comme été. Des night-clubs réputés, trois casinos, un large choix de lounges et de restaurants font de Sousse une station animée. Port El Kantaoui, doté d’un centre de plongée sous-marine, est une escale appréciée des plaisanciers. Dans la médina, plusieurs monuments exceptionnels méritent la visite ; certains offrent une vue panoramique sur la ville. Le Musée archéologique de la Kasbah, entièrement modernisé, expose des mosaïques romaines de grande beauté, tandis que le musée des arts et traditions populaires évoque la vie quotidienne des habitants de Sousse et de ses artisans sous la forme d’un musée de cire. Aux environs de Sousse, ne pas manquer de visiter trois autres villes d’histoire : Monastir, Kairouan et Mahdia.",
+                    "subtitle": "Que faire ?",
+                    "title": "Clubbing ou culture"
+                },
+                {
+                    "main": "Sousse est au cœur d’une grande région de culture des oliviers. Aussi l’huile d’olive est présente dans d’innombrables préparations culinaires : salades, plats mijotés et pâtisseries. Ville côtière, Sousse vous régalera de poissons, calamars et poulpes pleins de saveurs. Si vous préférez un plat typique à l’agneau, goûtez le borghol sahli, blé émondé et étuvé, accompagné de viande et de légumes. Terminez par un thé à la menthe accompagné d’un maqroudh de Kairouan ou d’une autre pâtisserie. Mais à Sousse, grande ville éclectique et ouverte, vous trouverez aussi d’excellentes adresses pour déguster des sushis, des tapas ou des spécialités italiennes. Un choix de restaurants vous attend dans la station touristique, dans les palaces de la ville ou sur les quais de Port El Kantaoui avec vue sur les bateaux de plaisance.",
+                    "subtitle": "Que manger ?"
+                },
+                {
+                    "main": "De Sousse à Port El Kantaoui, l’immense front de mer est constellé de grands hôtels balnéaires pour des vacances de rêve. Du palace au club, ils offrent toutes les activités et les prestations que vous pourrez souhaiter. Pour plus d’indépendance, on pourra séjourner en apparthôtel sur la marina de Port El Kantaoui. Et si vous recherchez plus de charme et d’intimité, quelques petits hôtels et maisons d’hôtes ouvrent leurs portes dans la médina et au bord des belles plages des environs.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Hôtel-club ou apparthôtel"
+                },
+                {
+                    "main": "Dans l’Antiquité, la région de Sousse était prospère et réputée pour ses magnifiques mosaïques exposées au musée archéologique de la ville. Quant à la ville médiévale, elle s’est développée au 9e siècle autour du Ribat, lieu de retraite des adeptes du soufisme. Proche de Kairouan, l’ancienne capitale de la Tunisie, Sousse était alors un port militaire : c’est de là que fut lancée la conquête musulmane de la Sicile en 827. La Grande Mosquée, dépourvue de minaret, est un témoignage exceptionnel de l’architecture de cette époque, tout comme les remparts parfaitement conservés, le Ribat et la Kasbah (forteresse) dominée par la Tour Khalef. Un autre monument remarquable datant du Moyen Age est la large coupole sculptée de zébrures, Kobba el K’haoui, qui jouxte le musée des arts et traditions populaires. A l’époque moderne, Sousse est restée un grand port de commerce.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Mosaïques et forteresse"
+                },
+                {
+                    "main": "Savez-vous que la Tunisie est le premier pays producteur et exportateur d’huile d’olive en dehors de l’Union européenne ? A la fin de l’Antiquité, la Tunisie était le premier fournisseur d’huile de tout l’Empire romain. Aujourd’hui encore, les paysages des campagnes sont constellés d’oliviers centenaires. L’huile d’olive a été de tout temps une des premières richesses de la Tunisie, et la région de Sousse, un important centre de production, comme le signalait au 11e siècle le géographe andalou Al-Bakri : « Parmi les merveilles de Kairouan, on peut signaler l’importance de son oliveraie ». Chaque hiver, les olives sont portées au pressoir où elles sont broyées à la meule puis écrasées pour produire l’huile extra-vierge. Alors profitez de votre séjour pour déguster la délicieuse huile tunisienne, goûteuse et fruitée. Les vrais amateurs l’apprécient pure avec un morceau de pain traditionnel. Excellente pour la santé, elle est le principal ingrédient du “régime méditerranéen” dont les bienfaits ne sont plus à démontrer.",
+                    "title": "L’huile d’olive"
+                }
+            ]
+        },
+        {
+            "name": "Monastir",
+            "lat": 35.7774932,
+            "log": 10.8330155,
+            "img": "10",
+            "good": "\nCommissariat au Tourisme de Monastir\nTél. : 73 521 089 / 73 520 205 / 73 520 884\ncrt.monastir@ontt.tourism.tn\nMarchés hebdomadaires\nMardi : Ksar Helal. Mercredi : Moknine. Vendredi : Jemmel. Samedi : Monastir.",
+            "transport": "Monastir est desservi par l’aéroport international Habib Bourguiba situé à quelques minutes des hôtels. Une ligne de trains régionaux permet de se rendre facilement à Sousse ou à Mahdia en passant par les villages de Moknine (ateliers de poterie) et Lemta (site archéologique). On peut aussi se déplacer en louage et, en ville, en taxi.",
+            "shopping": "Dans les boutiques des souks, achetez un beau tapis de Kairouan, un couffin d’alfa tressé, un bijou d’argent, un plateau de cuivre où vous ferez calligraphier votre nom. Faites provision de produits tunisiens comme l’huile d’olive, la harissa (condiment aux piments), les pâtisseries… Rendez-vous à Moknine, village de potiers situé à 20 km : les grandes jarres de terre cuite sont sa spécialité, mais on y fabrique aussi de la vaisselle et des bibelots de céramique multicolore de style tunisien.",
+            "slides": [
+                {
+                    "main": "Avec ses plages de sable blond et sa mer de saphir, ses monuments médiévaux et sa charmante marina, Monastir offre un des visages les plus avenants de la Tunisie. Une destination idéale pour bronzer au bord de l’eau, mais aussi pour visiter une région passionnante : de Sousse à Kairouan, d’El Jem à Mahdia, vous voyagerez à travers l’histoire. Dans les campagnes, vous ferez connaissance avec la vie des villages bédouins. Et au long de la côte, les ports de pêche vous enchanteront."
+                },
+                {
+                    "main": "Parcourez la splendide promenade du front de mer : la marina, l’esplanade du Ribat, le cimetière dominé par les fins minarets du mausolée de Bourguiba. Escaladez les 90 marches étroites de la tour-vigie du Ribat et vous aurez une vue panoramique à couper le souffle sur la ville et les plages environnantes. Admirez les vieilles pierres dorées des tours, des créneaux et de la mosquée voisine. Puis pénétrez dans les ruelles pavées de la médina. Fouinez dans les souks où les échoppes regorgent d’épices parfumées et de beaux objets d’artisanat : sacs en cuir, couvertures, paniers tressés… Faites un tour sur les quais animés du port de pêche. Ensuite, laissez-vous séduire par les environs de Monastir. La ville est entourée de villages agricoles et de vergers, tandis que la route de la côte suit un collier de criques et de plages pleines de charme.",
+                    "subtitle": "Que voir ?",
+                    "title": "Ribat et port de pêche"
+                },
+                {
+                    "main": "Avec ses plages, ses palmiers et sa mer couleur d’azur, Monastir est l'une des plus grandes destinations de vacances de Tunisie. Farniente ou catamaran, jetski ou spa, piste de karting … les loisirs ne manquent pas. C’est aussi une destination de golf : elle compte un parcours en bord de mer et un autre à flanc de colline. Le port de plaisance et le centre de plongée attendent les passionnés de la mer. Les amateurs d’histoire visiteront attentivement le beau musée d’art islamique du Ribat. Autour de Monastir, ils trouveront aussi le site archéologique de Lemta et de grandes villes d’histoire : Sousse, Mahdia et Kairouan. Sans oublier l’un des plus fabuleux monuments de Tunisie, le grand amphithéâtre romain d’El Jem. Et si vous aimez les arts traditionnels, vous serez éblouis par les tuniques de mariage brodées d’or et de soie exposées au musée des Arts et traditions populaires.",
+                    "subtitle": "Que faire ?",
+                    "title": "Farniente ou patrimoine"
+                },
+                {
+                    "main": "Monastir offre une abondance de produits frais qu’elle accommode de diverses manières. Vous aurez peut-être la chance de goûter une spécialité locale, le couscous aux petits poissons charkaw : assaisonnés au sel et au piment. Ils sont cuits à la vapeur avec la semoule puis viennent garnir le plat avec poivrons et potirons. A Monastir, tous les produits de la pêche sont à l’honneur comme les loups et daurades grillés, les poulpes et calamars frits ou marinés… La région est connue pour ses cultures maraîchères : dégustez un ragoût printanier marqet khodhra, agneau mijoté aux fèves vertes et légumes de saison. Dans la médina, près des plages et sur les quais de la marina, vous trouverez une variété de restaurants pour répondre à toutes vos envies gourmandes.",
+                    "subtitle": "Que manger ?",
+                    "title": "Poisson et fruits de mer"
+                },
+                {
+                    "main": "Tout au long des plages de sable fin de Skanès, les hôtels sont nombreux. Les formules proposées vont de l’hôtellerie classique au séjour tout compris (all inclusive). Sports, animation, cuisine internationale… ces établissements sont parfaits pour des vacances d’été en famille ou pour de longs séjours sous le soleil d’hiver. Sur la marina de Monastir, à deux pas du centre-ville, vous pouvez opter pour un apparthôtel : cette formule permet de combiner l’indépendance d’un séjour en appartement et les services d’un établissement hôtelier.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Hôtel-club sur la plage, ou appartement sur la marina"
+                },
+                {
+                    "main": "Le nom de Monastir a pour origine un monastère de l’époque byzantine. La vocation spirituelle du site a perduré, puisqu’aux siècles suivants, une communauté d’ascètes musulmans s’y est établie. La ville s’est développée autour de son Ribat, petit fortin construit au 8e siècle pour protéger cette communauté. L’édifice a été ensuite agrandi par les sultans de Tunis puis par les Ottomans. Son noyau primitif est aujourd’hui transformé en musée : on y voit des objets rares, comme un magnifique astrolabe fabriqué à Cordoue au 10e siècle. L’autre célèbre monument de Monastir est le mausolée à coupoles dorées de Habib Bourguiba. Père de l’indépendance, né à Monastir, Bourguiba a profondément marqué la Tunisie moderne grâce à sa politique d’éducation, de développement social et de libération des femmes. On peut visiter son mausolée-musée ainsi que son ancienne résidence d’été, un palais futuriste des années 1960.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "La ville du Ribat et de Bourguiba"
+                },
+                {
+                    "main": "Une des plus extraordinaires forteresses du littoral maghrébin, le Ribat de Monastir est un dédale de cours, de tours rondes et carrées et de murs crénelés. Cependant, à l’origine, ce n’était qu’un petit fortin comme il en existait toute une chaîne le long de la côte tunisienne ; celui de Sousse a conservé sa forme originelle. Ces édifices, les ribats, servaient de lieu de retraite spirituelle pour des ascètes soufis. Leurs gardiens priaient, accueillaient étudiants et savants, et protégeaient les populations en cas de tentative d’invasion. Ils jouaient un rôle utile de surveillance ; depuis la haute tour, on pouvait envoyer des signaux lumineux pour avertir d’un danger venant de la mer. La ville de Monastir jouissait d’un grand prestige religieux : elle était « une des portes du paradis », selon le proverbe. Aussi son Ribat a-t-il pris au fil du temps des dimensions considérables, jusqu’à devenir le monument que nous visitons aujourd’hui avec ravissement.",
+                    "title": "Les Ribats"
+                }
+            ]
+        },
+        {
+            "name": "Kairouan",
+            "lat": 35.6811011,
+            "log": 10.1050208,
+            "img": "11",
+            "good": "Commissariat au Tourisme de Kairouan\nTél. : 77 231 897\ncrt.kairouan@ontt.tourism.tn\nMarchés hebdomadaires\nLundi : Kairouan. Mardi : Haffouz.",
+            "transport": "Kairouan est reliée au reste du pays par des lignes d’autocars et de louages (taxis collectifs à itinéraire fixe). L’aéroport international de Monastir et celui d’Enfidha-Hammamet sont tous deux à 65 km de Kairouan.",
+            "shopping": "Impossible d’ignorer la grande spécialité de Kairouan : le tapis est présent partout. Les tapis épais à points noués vont du modèle classique de Kairouan aux dessins les plus variés ; les tapis ras, couverts de motifs géométriques ou de petites figures stylisées – gazelles, personnages –, sont plus légers et moins onéreux. Vous en trouverez de toutes les tailles, du petit tapis de chaise au grand mergoum recouvrant une pièce entière. Rapportez aussi de votre voyage d’autres articles d’artisanat (cuivre, poterie, cuir…) et les petits gâteaux aux dattes maqroudh.",
+            "slides": [
+                {
+                    "main": "A l’écart de la côte, au milieu d’un paysage de steppes, Kairouan est une ville fascinante ancrée dans un passé lointain. Ville sainte de l’islam, elle a été la première capitale du Maghreb. Inscrite par l’Unesco au Patrimoine mondial, elle recèle des merveilles : la médina, la vénérable Grande mosquée, les Bassins des Aghlabides, le ravissant mausolée de Sidi Saheb décoré de céramique… Impossible aussi de manquer les nombreux ateliers où se fabriquent les plus célèbres tapis à points noués de Tunisie."
+                },
+                {
+                    "main": "Pénétrez dans la médina par une porte monumentale, entre les étalages des petits vendeurs des souks. Parcourez les ruelles bordées de façades blanches et de portes bleu pâle ; vous ressentirez une atmosphère hors du temps. Montez sur les remparts crénelés qui entourent la vieille ville, et vous découvrirez une ville constellée de coupoles blanches. Flânez dans les souks où les échoppes rivalisent pour exposer les plus beaux tapis, fierté de la ville. Au cours de votre promenade, entrez dans le petit édifice surmonté d’une coupole qui protège le puits appelé Barrouta, très ancien et vénéré par la croyance populaire. A l’intérieur, un dromadaire, en tournant, actionne un antique système de roues et de godets afin de puiser l’eau. Sortez de la vieille ville et rendez-vous aux Bassins des Aghlabides : au 9e siècle, ces vastes réservoirs d’eau faisaient partie d’un immense complexe hydraulique, exceptionnel pour l’époque.",
+                    "subtitle": "Que voir ?",
+                    "title": "Souks et coupoles"
+                },
+                {
+                    "main": "Visitez la Grande mosquée : il est permis aux non musulmans de pénétrer dans la cour et d’apercevoir la salle de prière, majestueuse forêt d’arcades et de colonnes antiques. On peut aussi monter dans le minaret, inspiré du phare d’Alexandrie. Vous serez frappé par la puissance et la sobriété de cette architecture du 9e siècle. Le contraste est absolu avec l’autre grand monument de Kairouan : la gracieuse zaouïa Sidi Saheb (ou “mosquée du Barbier”), dont les larges patios sont habillés de faïence gaiement colorée. A l’extérieur de la ville, ne manquer pas le grand musée de Raqqada : vous y verrez des céramiques à reflets métalliques, des monnaies d’or et des feuillets du Coran remontant aux premiers siècles de l’histoire de la ville. D’autres activités sont possibles dans la région : la randonnée, la spéléologie et la chasse dans les sites montagneux, ou l’observation de rassemblements d’oiseaux sur les lacs salés.",
+                    "subtitle": "Que faire ?",
+                    "title": "Mosquées et musées"
+                },
+                {
+                    "main": "Dans la médina, attablez-vous dans un petit restaurant pour déguster une cuisine simple et bon marché. Quelques restaurants plus réputés vous serviront, selon vos goûts, un généreux couscous ou une cuisine internationale recherchée. Vous pourrez commander des spécialités tunisiennes au mouton comme le mosli allouche, agneau cuit au four. Mais la spécialité reconnue de Kairouan est le petit gâteau en losange appelé maqroudh. On y trouve les ingrédients immémoriaux de la cuisine berbère : la semoule, l’huile d’olive, le miel auxquels s’ajoutent les dattes des oasis du sud.",
+                    "subtitle": "Que manger ?",
+                    "title": "Agneau ou maqroudh"
+                },
+                {
+                    "main": "On trouve quelques hôtels à Kairouan, parmi lesquels un hôtel de luxe avec piscine aménagé dans un bâtiment ancien restauré, la kasbah (forteresse) de la ville. A moins que vous ne préfériez une maison d’hôtes dans la médina.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Hôtel classique ou hébergement de charme"
+                },
+                {
+                    "main": "Kairouan a été fondée en 670, lors de la conquête arabe de l’Africa (nom antique de la Tunisie). Sous le règne des émirs aghlabides, au 9e siècle, elle est devenue une des plus grandes métropoles de la Méditerranée. C’est à cette époque que la Grande mosquée a été construite sous sa forme actuelle ; un des premiers grands monuments d’architecture islamique, elle a servi de modèle à de nombreuses mosquées jusqu’en Andalousie. Le musée de Raqqada présente des pièces remarquables datant de cet âge d’or qui a duré deux siècles. Aux époques suivantes, Kairouan a gardé un prestige particulier de ville sainte. Outre sa Grande mosquée – la première fondée au Maghreb –, elle abrite le mausolée d’un ancien compagnon du Prophète, Sidi Saheb ; ce magnifique édifice construit au 17e siècle, composé de plusieurs patios et salles décorés de panneaux de céramique multicolores, est connu sous le nom de “Mosquée du Barbier”.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Ville sainte et ancienne capitale"
+                },
+                {
+                    "main": "On raconte qu’au 19e siècle, la fille du gouverneur ottoman aurait été la première, à Kairouan, à tisser un tapis de haute laine pour l’offrir à une des mosquées de la ville. Puis la tradition se serait perpétuée, faisant de Kairouan la capitale du tapis en Tunisie. En réalité, depuis des temps reculés, on fabrique toutes sortes de tapis en Tunisie. Les klims et les mergoums sont des tapis ras, décorés de bandes parallèles et de motifs berbères, et les gtifs, d’épais tapis aux couleurs éclatantes, confectionnés dans le Sud et dans les campagnes. Mais le tapis de Kairouan est beaucoup plus proche des tapis orientaux. On le reconnaît à son médaillon central entouré d’un semis de fleurs et d’un encadrement en bandes parallèles. Les plus classiques ont une dominante rouge cramoisi, ou au contraire les teintes naturelles blanches et brunes de la laine de mouton. Observez le travail des artisanes dans un atelier de tapis : vous serez fascinés par leur adresse et par les merveilleux dessins qui se forment sous vos yeux.",
+                    "title": "Le tapis de Kairouan"
+                }
+            ]
+        },
+        {
+            "name": "Mahdia",
+            "lat": 35.5083031,
+            "log": 11.057818,
+            "img": "12",
+            "good": "Commissariat au Tourisme de Mahdia\nTél. : 73 682 220 / 73 682 320 / 73 680 668\ncrt.mahdia@ontt.tourism.tn\nFestivals\nTabarka Jazz Festival, Tabarka Latino Days (juillet-août)\nMarchés hebdomadaires",
+            "transport": "Mahdia est desservie par l’aéroport international de Monastir situé à 50 km. Une ligne de trains régionaux permet de se rendre facilement à Sousse en passant par les villages de Moknine (ateliers de poterie) et Lemta (site archéologique). Comme partout en Tunisie, on peut aussi se déplacer en louage (taxi collectif à itinéraire fixe) et en taxi.",
+            "shopping": "Faites-vous plaisir en achetant un foulard précieux en soie tissée dans un atelier de la médina, marque du savoir-faire ancestral de Mahdia. Ou choisissez deux ou trois foutas, longues serviettes de hammam, fabriquées dans la région : leurs couleurs pastel ou lumineuses, égayées de fines rayures, en font un véritable accessoire de mode. Vous trouverez aussi de la vaisselle en céramique multicolore, des tapis de Kairouan, et bien d’autres articles d’artisanat.",
+            "slides": [
+                {
+                    "main": "Mahdia est une petite ville aux traditions originales, où les femmes se couvrent de bijoux en or et où les maisons s’habillent de tentures brodées. Sa porte monumentale rappelle son passé glorieux : elle a été la première capitale de la grande dynastie fatimide, qui allait plus tard régner sur l’Egypte et la Syrie. Sa médina s’étire sur une mince presqu’île, entourée d’eau d’un bleu profond ; ses plages somptueuses font les délices des vacanciers. Une ville empreinte de poésie aux multiples facettes."
+                },
+                {
+                    "main": "Visitez la médina au charme intemporel. Vous pénétrerez par un porche obscur – la “Skifa Kahla” – surmonté d’une imposante tour : c’était jadis l’entrée d’une véritable citadelle interdite, strictement réservée à la cour du Calife fatimide. C’est aujourd’hui un souk où se vendent des tenues de mariage magnifiquement brodées de paillettes dorées. Au-delà, les ruelles ont conservé une certaine noblesse avec leurs belles portes vertes encadrées de pierre sculptée. Faites une pause sous les ficus de la place du Caire. D’un côté comme de l’autre, la mer est toute proche : la médina s’étire sur une longue presqu’île. Descendez vers le poétique cimetière marin, dont les tombes blanches toutes simples s’inclinent doucement vers la mer. A leur pied, quelques barques glissent sur l’eau d’un bassin découpé dans le rocher : un ancien port punique. En ressortant de la médina, vous pourrez flâner sur le port de pêche, un des plus grands de Tunisie.",
+                    "subtitle": "Que voir ?",
+                    "title": "Médina et port de pêche"
+                },
+                {
+                    "main": "Prélassez-vous sur les somptueuses plages de sable doré, qui comptent parmi les plus belles de Tunisie, et profitez des activités proposées par votre hôtel. Faites de la plongée sous-marine dans les profondeurs d’azur, détendez-vous dans un centre de thalasso. Dans la médina, pénétrez dans un atelier de tisserand ou dans une belle maison ancienne dont les pièces sont drapées de tentures colorées. Visitez la Grande mosquée fatimide : fondée en 916, dépourvue de minaret, elle surprend par sa sobriété et son majestueux porche d’entrée. Visitez la forteresse turque Borj el-Kébir, où le corsaire Dragut a livré d’importantes batailles contre les Espagnols dans la lutte pour le contrôle de la Tunisie. Au musée de la ville, vous pourrez admirer des mosaïques romaines, des pièces d’or de l’époque byzantine et la superbe tenue traditionnelle des mariées de Mahdia. Aux environs, ne manquez pas Monastir, autre ville d’histoire, et le grand amphithéâtre romain d’El Jem, le “Colisée d’Afrique”.",
+                    "subtitle": "Que faire ?",
+                    "title": "Histoire ou plongée sous-marine"
+                },
+                {
+                    "main": "A Mahdia, grand port de pêche, la gastronomie accorde tout naturellement une grande place au poisson, qu’il soit accommodé en couscous, ou cuit au four à l’étouffée avec épices et rondelles de citron. Pour un repas léger, choisissez une rafraîchissante salade de poulpe, assaisonnée de citron et d’un filet d’huile d’olive, ou une chakchouka bien épicée – une ratatouille de poivrons, tomates et pommes de terres garnie d’un œuf. Au dessert, goûtez une spécialité gourmande : la “brick de Mahdia”, triangle de pâte feuilletée fourrée aux amandes. Selon vos envies, vous pourrez déjeuner face au port, où certains restaurants sont réputés, ou prendre un repas léger dans un café de la médina au-dessus des vagues.",
+                    "subtitle": "Que manger ?",
+                    "title": "Poulpe et huile d’olive"
+                },
+                {
+                    "main": "Les magnifiques plages de sable doré qui s’étendent à la sortie de la ville ne pouvaient pas rester ignorées. Mahdia compte maintenant un grand nombre d’hôtels balnéaires plus superbes les uns que les autres, du palace luxueux au club de vacances “all inclusive”. Autres options, un petit hôtel en ville, ou une maison d’hôtes au bord d’une plage déserte, à quelques kilomètres de Mahdia.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Clubs, palaces ou maison d’hôtes"
+                },
+                {
+                    "main": "Ancien comptoir carthaginois, la péninsule, appelée cap Africa, a connu son heure de gloire au 10e siècle avec la naissance en Tunisie de la dynastie des califes fatimides. C’est en effet sur ce site que le premier d’entre eux, qualifié de Mahdi (le “bien-guidé”), décida d’établir sa capitale. Il fit construire sur la presqu’île une cité fortifiée imprenable. Plus tard, les Fatimides conquirent l’Egypte et y édifièrent une nouvelle capitale : Le Caire. Mahdia devint alors une base de corsaires, et finalement, un port paisible où s’installèrent de nombreux pêcheurs grecs et siciliens. En 1907, Mahdia est devenue célèbre auprès des archéologues du monde entier grâce à la découverte d’une épave antique chargée de statues et objets précieux. L’Antiquité a laissé un autre témoignage exceptionnel à proximité : l’amphithéâtre d’El Jem, aussi bien conservé que le Colisée de Rome et presque aussi grand, preuve de la richesse de cette région oléicole à l’époque romaine.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "La ville du Mahdi"
+                },
+                {
+                    "main": "Dans chaque ville de Tunisie, la tenue portée par les mariées est différente. Tuniques brodées d’or, caracos ornés de paillettes, pantalons de dentelle, tissus drapés… tous ces costumes traditionnels féminins sont plus extraordinaires les uns que les autres. A Mahdia, sous leurs bijoux d’or et leurs caracos rutilants, les mariées se drapent d’étoffes de soie aux couleurs chatoyantes. C’est dans les ateliers de la ville que les tisserands réalisent ces tissus précieux à bandes colorées, rehaussés de fines rayures d’or et d’argent et de motifs géométriques. La médina bruisse du glissement des navettes lancées à vive allure à travers les métiers à tisser en bois… Arrêtez-vous pour admirer la dextérité des artisans qui jonglent avec les bobines multicolores. Leur savoir-faire remonte à très loin : « On y fabrique des tissus très fins et très beaux, connus sous le nom de tissus de Mahdia et dont il se faisait en tout temps une exportation considérable, car ces tissus étaient inimitables sous tous les rapports », notait déjà au 12e siècle le célèbre géographe Al-Idrissi.",
+                    "title": "Les tissages de Mahdia"
+                }
+            ]
+        },
+        {
+            "name": "Sfax et Kerkennah",
+            "lat": 34.7400964,
+            "log": 10.7605451,
+            "img": "13",
+            "good": "Commissariat au Tourisme de Sfax\nTél. : 74 497 021 / 74 497 022 \ncrt.sfax@ontt.tourism.tn\nMarchés hebdomadaires\nLundi : Mahares. Vendredi : Sfax, Jebaniana.",
+            "transport": "Sfax est accessible par avion (aéroport international de Sfax-Thyna), par route (260 km de Tunis par autoroute) ou par train. Les îles Kerkennah sont accessibles par le bac (1 heure de traversée).",
+            "shopping": "A Sfax, achetez dans la médina les petits objets de bois qui faisaient naguère partie du quotidien : les qobqabs (sabots pour le hammam), les ustensiles de cuisine ou les toupies multicolores. Faites provision de pâtisseries aux amandes et à l’eau de rose : la variété des formes, des textures et des parfums vous ravira. De Kerkennah, rapportez des éponges naturelles ou une maquette de bateau traditionnel (“loude”) fabriquée par les artisans de l’île.",
+            "slides": [
+                {
+                    "main": "Un grand port de commerce, une vieille ville entourée de remparts couleur de parchemin, des échoppes résonnant du travail des petits artisans et une gastronomie de l’olive, des amandes et des produits de la mer … Sfax présente un visage original de la Tunisie, à l’écart des circuits touristiques classiques. Face à elle, les îles Kerkennah offrent la poésie de leurs paysages préservés et de leurs longues plages de sable fin."
+                },
+                {
+                    "main": "Entièrement entourée de murailles crénelées, la médina de Sfax est d’un abord saisissant. Pénétrez par l’une des portes et vous plongerez dans une autre époque, entraîné par le flot des chalands faisant leurs achats dans les petites échoppes. Ici, c’est un menuisier qui confectionne des toupies en bois ; là, un étalage de gros pains ronds à la croûte dorée.Faites un tour au pittoresque marché aux poissons : les Sfaxiens raffolent des produits de la mer. Arrêtez-vous devant le curieux minaret de Sidi Amar Kammoun, d’allure médiévale, puis devant celui de la Grande mosquée, orné d’une riche dentelle de pierre sculptée. En quittant les quartiers anciens, admirez les bâtiments datant du protectorat français : tours aux allures de minarets, fenêtres arquées et frises de carreaux de faïence sont typiques du style Arabisance. A Kerkennah, observez les barques à fond plat qui glissent silencieusement sur l’eau. Contemplez les paysages sereins enveloppés de sable, le balancement des palmiers et le rougeoiement du soleil couchant sur la mer.",
+                    "subtitle": "Que voir ?",
+                    "title": "Minarets et plages désertes"
+                },
+                {
+                    "main": "Dans la médina de Sfax, visitez l’ancienne Kasbah, aujourd’hui un musée consacré à l’architecture historique et le palais Dar Jallouli, une sobre et majestueuse maison du 17e siècle. Avec ses frises de pierre sculptée et ses panneaux de faïence bleutée, Dar Jallouli est aussi un musée des arts et traditions populaires et expose les beaux objets qui accompagnaient autrefois la vie des familles aisées : armoires, coiffes féminines, ustensiles de toilette, peintures sous-verre … Partez en excursion pour visiter le Colisée d’El Jem et la médina de Mahdia. A Kerkennah, profitez des plages de sable fin et de l’eau claire et peu profonde qui entoure l’archipel. Un masque et un tuba suffisent pourobserver un riche univers subaquatique : crustacés, plantes sous-marines, poissons qui se concentrent aux abords des pêcheries fixes (voir p. …). Observez les rassemblements d’oiseaux : la région est l'un des principaux sites d’hivernage des oiseaux migrateurs en Méditerranée.",
+                    "subtitle": "Que faire ?",
+                    "title": "Culture ou bird-watching"
+                },
+                {
+                    "main": "La gastronomie de Sfax et Kerkennah est fondée sur les produits de la mer. Vous pourrez goûter, par exemple, des calamars farcis, du couscous aux seiches ou du poisson cuisiné “à la sfaxienne” (en sauce). Un plat typique de Sfax est le poisson accompagné de charmoula : une marmelade d’oignon parfumée aux raisins secs et à la cannelle, mijotée à petit feu pendant plusieurs heures. Dégustez l’huile d’olive douce et fruitée : la région de Sfax produit à elle seule 40% de l’huile d’olive tunisienne. S’il est un domaine où Sfax donne le ton au pays tout entier, c’est bien celui de la pâtisserie. C’est certainement le meilleur endroit pour savourer la texture délicate des kaak warqa, les samsa feuilletées ou les mlabess subtilement parfumés à l’eau de rose et à l’écorce d’orange. Rien d’étonnant à cela puisqu’on trouve dans la région l'un des principaux ingrédients de la pâtisserie tunisienne : les amandes, avec près de cinq millions d’amandiers.",
+                    "subtitle": "Que manger ?",
+                    "title": "Calamars et pâtisseries fines"
+                },
+                {
+                    "main": "A Kerkennah, choisissez un bungalow dans un hôtel au bord de la plage. A Sfax, un grand hôtel d’affaires ou un hôtel de luxe de style Arabisance. Que ce soit en ville, à la campagne ou à la plage, vous pourrez aussi opter pour un petit hôtel, une maison d’hôtes, un gîte rural ou une auberge de jeunesse.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Bungalow ou hôtel d’affaires"
+                },
+                {
+                    "main": "Sfax était autrefois la porte d’entrée des marchandises provenant d’Orient. Les unes venaient par terre, par les caravanes qui traversaient le désert de Libye ; les autres, par mer, grâce aux navires affrétés par les armateurs sfaxiens. C’est d’ailleurs une puissante famille d’armateurs, les Jallouli, qui a construit le remarquable palais de la médina Dar Jallouli. A partir du 19e siècle, Sfax a développé de multiples activités : huile d’olive, banque, textile, chimie … qui en font aujourd’hui la deuxième ville de Tunisie. Kerkennah, l’archipel voisin, se consacre quant à lui entièrement à la pêche grâce à un système ingénieux : les pêcheries fixes. Ces labyrinthes construits dans les eaux peu profondes, formés de palmes fichées dans le fond vaseux, orientent les poissons vers des nasses où les pêcheurs viennent les récolter. Les pêcheurs de Kerkennah utilisent des barques traditionnelles à fond plat et à voile triangulaire, les loudes.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Pêcheurs, armateurs et commerçants"
+                },
+                {
+                    "main": "La médina de Sfax est l’une des mieux conservées de tout le bassin méditerranéen et présente l’urbanisme typique des vieilles villes arabes. Ses remparts crénelés, construits au Moyen Age, sont percés de portes monumentales ; les plus anciennes étaient des dispositifs défensifs, faits pour repousser les envahisseurs. La Grande mosquée, construite au 9e siècle, occupe une position centrale ; sa salle de prière, vaste et envahie d’arcades et de colonnes antiques, donne sur une cour et un sobre minaret carré. Les souks, rues dédiées au commerce et aux activités artisanales, entourent la Grande mosquée et la relient aux portes de la ville.\nDans les rues secondaires, les habitations modestes côtoient les palais, seulement reconnaissables à leurs grandes portes richement décorées. Mais en y pénétrant, on découvre, tout autour d’une cour intérieure, de magnifiques arcades de pierre sculptée, des colonnes de marbre, des murs tapissés de céramique et de stuc ciselé … Ce qui fait dire que dans les médinas, les véritables façades se trouvent à l’intérieur des patios !",
+                    "title": "L’univers des médinas"
+                }
+            ]
+        },
+        {
+            "name": "Djerba et Zarzis",
+            "lat": 33.8005728,
+            "log": 10.883226,
+            "img": "14",
+            "good": "Commissariat au Tourisme de Djerba\nTél. : 75 650 016 / 75 650 544 / 75 653 780\nMarchés hebdomadaires\nLundi : Zarzis, Houmt-Souk. Jeudi : Houmt-Souk. Vendredi : Midoun, Zarzis. Samedi : Ben Guerdane.",
+            "transport": "Djerba est dotée d’un aéroport international (à 55 km de Zarzis). Sur l’île, de nombreux taxis assureront tous vos déplacements. ",
+            "shopping": "Vous trouverez à Djerba et Zarzis des mergoums (tapis ras) aux couleurs vives tissés dans les régions du Sud, des robes brodées, des couffins et chapeaux de palme tressée… A Houmt-Souk, une visite au souk des bijoux s’impose ; vous y verrez de magnifiques bijoux en argent émaillé. Non loin, des boutiques vous proposeront toute une gamme de nappes, écharpes, tentures et couvertures rayées sorties des ateliers de Djerba. L’île compte aussi un centre commercial moderne et plusieurs boutiques de créateurs.",
+            "slides": [
+                {
+                    "main": "Méditerranéenne et saharienne à la fois, l’île de Djerba fascine depuis le temps d’Homère. Ulysse y a goûtéle “lotos”, fruit délicieux qui ôte tout désir de retour, et aujourd’hui chacun se sent ensorcelé par sonatmosphère exceptionnelle ; une atmosphèrequ’elle partage avec Zarzis, sa voisine sur le continent. Mais Djerba est aussi l’île des clubs de vacances, des activités au grand air, de la découverte d’un patrimoine unique … et desexcursions vers les paysages grandioses du Sahara."
+                },
+                {
+                    "main": "Djerba invite à la promenade, tant ses doux paysages sont en harmonie avec l’architecture traditionnelle toute en blancheur et en rondeur : vieux puits, petites mosquées perdues en pleins champs, grandes propriétés rurales appelées menzels … Rendez-vous au parc Djerba Explore pour connaître la vie d’un domaine rural, reconstitué à l’identique. Vous y trouverez aussi une Ferme aux crocodiles : assistez au nourrissage et apprenez à mieux connaître ces impressionnants reptiles. A Houmt-Souk, flânez sur le port de pêche, visitez le quartier des fondouks (caravansérails) et le marché couvert où les poissons sont vendus aux enchères. Ne manquez pas le village d’Erriadh pour y visiter l'une des plus anciennes synagogues au monde, la Ghriba, et le musée vivant du street art, Djerbahood – une étonnante appropriation de l’architecture traditionnelle par des graffeurs du monde entier. Au village de Guellala, rendez visite aux potiers qui fabriquent de grandes jarres dignes de l’Antiquité, descendez avec eux dans un gisement d’argile souterrain et essayez-vous au maniement du tour de potier.",
+                    "subtitle": "Que voir ?",
+                    "title": "Potiers ou street art"
+                },
+                {
+                    "main": "De beaux hôtels-clubs, des plages de sable fin … Djerba est une destination de choix pour passer des vacances au bord de la mer. Le vent régulier toute l’année et le climat tempéré en font un endroit idéal pour s’initier au kitesurf ou faire de la plaisance. Les loisirs ne manquent pas : plongée sous-marine, parachute ascensionnel, promenades en mer, parcours de golf, casino et discothèques. Observez les grands rassemblements d’oiseaux migrateurs sur les lagunes. Faites connaissance avec le patrimoine de Djerba : à Houmt-Souk se trouve le Borj Ghazi Mustapha, une forteresse du 14e siècle où le corsaire turc Dragut a combattu les Espagnols. Le musée du Patrimoine traditionnel de Djerba explique les bijoux, la poterie, les traditions … Le parc Djerba Explore possède une superbe collection d’objets anciens de Tunisie et du Moyen-Orient. Djerba est aussi un excellent choix pour une cure de thalassothérapie ou de thermalisme. Sur le continent, partez à la découverte des vieux villages berbères, des maisons troglodytes, des Ksour et des oasis sahariennes.",
+                    "subtitle": "Que faire ?",
+                    "title": "Musées ou kitesurf"
+                },
+                {
+                    "main": "Poissons et poulpes fraîchement pêchés sont à l’honneur dans la gastronomie de Djerba. Le plus amusant : acheter sa dorade au marché de Houmt-Souk et la déguster sur place, accompagnée d’une salade, dans un des petits restaurants voisins dont l’enseigne proclame : « Apporte ton poisson, je le grille » ! Goûtez aussi une délicieuse spécialité de Djerba : le riz cuit à la vapeur avec viande, foie, persil, épinards et herbes. Tout autour des hôtels, de nombreux restaurants vous proposent pizzas, fruits de mer et cuisine tunisienne ; vous pourrez aussi manger italien ou asiatique dans un hôtel. Pour une soirée réussie, dînez sur le port avec musique et danses traditionnelles, dégustez une viande de qualité grillée au feu de bois dans une ambiance cosy, ou savourez un couscous dans un ancien fondouk à Houmt-Souk.",
+                    "subtitle": "Que manger ?",
+                    "title": "Poulpes ou riz djerbien"
+                },
+                {
+                    "main": "Djerba est l’île par excellence des clubs de vacances, qui y sont particulièrement nombreux. Ils proposent une foule d’activités dans une ambiance conviviale. Mais tous les types d’hébergement coexistent à Djerba, du grand hôtel de luxe à la maison d’hôtes en pleine campagne. Maison traditionnelle revisitée, ancien fondouk reconverti en hôtel de charme, résidence en forme de village… chacun choisira l’ambiance qui lui convient.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Maisons d’hôtes et clubs de vacances"
+                },
+                {
+                    "main": "Les Carthaginois avaient fondé à Djerba une grande ville appelée Meninx ; ils ont aussi construit la route reliant l’île au continent, qu’on appelle aujourd’hui Chaussée romaine. Une communauté juive s’est aussi installée à Djerba dans l’Antiquité : sa synagogue, la Ghriba, est l'une des plus anciennes au monde. Djerba produisait alors la pourpre, colorant prestigieux tiré d’un coquillage. Au Moyen Age, l’île s’est couverte de petites mosquées rurales, qui étaient aussi des forteresses pour protéger la population en cas d’invasion. Les Normands de Sicile, les Aragonais, puis les Turcs et les Espagnols se sont disputé son contrôle. Au 16e siècle, Djerba était une grande base de corsaires combattant pour l’empire ottoman. Au 19e siècle, l’abolition de l’esclavage a créé sur l’île une importante communauté noire. A la même époque, des Maltais et des Grecs se sont installés nombreux pour pratiquer la pêche aux éponges ; l’église maltaise est toujours en activité à Houmt-Souk.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Carthaginois, corsaires et pêcheurs d’éponges"
+                },
+                {
+                    "main": "Au détour des petites routes et des pistes sablonneuses de Djerba, il n’est pas rare de voir surgir un vieux menzel. Hauts murs, tours d’angle, voûtes et coupoles … ces propriétés rurales sont typiques de l’architecture de l’île. Une architecture qui tire tout son charme de sa sobriété, de ses formes arrondies et de sa couleur laiteuse. Autour de chacune de ces demeures, un domaine agricole permettait à tout un clan de vivre en autarcie grâce à son puits, ses oliviers et ses cultures irriguées par des petits canaux. Les menzels sont nombreux aux alentours de Midoun, la deuxième ville de Djerba. Tandis que la ville principale, Houmt-Souk, se distingue par ses fondouks (caravansérails), des lieux destinés jadis aux marchands voyageurs pour entreposer leur marchandise. Avec leurs vastes cours entourées d’arcades blanchies à la chaux, ce sont de superbes décors aujourd’hui reconvertis en hôtels, auberges de jeunesse ou restaurants ; des endroits où sentir battre le cœur de Djerba.",
+                    "title": "Menzels et fondouks"
+                }
+            ]
+        },
+        {
+            "name": "Tozeur",
+            "lat": 33.9239421,
+            "log": 8.1376348,
+            "img": "15",
+            "good": "Commissariat au Tourisme de Tozeur\nTél. : 76 454 503 / 76 454 088\ncrt.tozeur@ontt.tourism.tn\nFestivals\nFestival des Oasis : cueillette des dattes (en novembre)\nDunes électroniques : musique électro sur le site de Star Wars\nMarchés hebdomadaires\nMercredi : Gafsa. Jeudi : Nefta. Dimanche : Tozeur, Metlaoui.",
+            "transport": "Tozeur et Nefta disposent d’un aéroport international, situé à 5 minutes de Tozeur. On peut aussi emprunter un train de nuit depuis Tunis. Sur place, d’excellentes routes goudronnées permettent d’explorer la région en voiture de tourisme (Chott el-Jerid, oasis de montagne…). Pour découvrir la ville et la palmeraie, déplacez-vous en taxi ou louez une calèche. ",
+            "shopping": "Ne quittez pas la région sans emporter avec vous une caisse de dattes fraiches ou des spécialités à base de dattes : confiture, pâtisserie, sirop… Toutes les parties du palmier sont utilisées dans l’artisanat : couffins en palmes tressées, coffres en bois de palmier… Achetez les beaux tapis et tentures de la région, décorés de chameaux, palmiers et personnages stylisés.",
+            "slides": [
+                {
+                    "main": "Villes surgies du désert et blotties contre d’immenses palmeraies, Tozeur et Nefta surprennent, fascinent et plongent dans le dépaysement. La lumière brûlante du Sahara s’y déverse dans les ruelles des vieux quartiers, entre les hautes façades de briques blondes. A Tozeur, palaces, parcs à thème et musées ont fleuri autour de la vieille ville. A Nefta, d’innombrables coupoles signalent des tombeaux de saints, dominant l’oasis qui se love dans une cuvette appelée la Corbeille. Les dunes du Sahara ne sont qu’à quelques kilomètres …"
+                },
+                {
+                    "main": "Les vieux quartiers de Tozeur et Nefta offrent un visage très particulier. Suivez les ruelles et les passages couverts qui donnent une étonnante sensation de fraîcheur sous le soleil saharien. Admirez les façades de briques couleur de sable et leurs étonnants décors en relief. Puis rendez-vous dans les oasis géantes, véritables forêts de palmiers à l’ombre desquelles sont cultivés des vergers. A pied ou en calèche, appréciez l’atmosphère si particulière des palmeraies. Les alentours vous surprendront par la variété des paysages désertiques : lignes de montagnes, plateaux arides, dunes géantes, lacs salés scintillant au soleil. Traversez le gigantesque Chott el-Jerid, ancienne mer intérieure presque entièrement asséchée, recouverte d’une croûte de sel d’une blancheur éclatante. Suivez la route des Oasis de montagnes – Chebika, Tamerza, Midès – et explorez les canyons, les cascades et les palmeraies nichées dans le rocher. Plus au nord-est l’oasis de Gafsa, ville réputée pour ses bassins en pierres romaines et ses tentures aux couleurs vives.",
+                    "subtitle": "Que voir ?",
+                    "title": "Chotts, palmiers et vieux quartiers"
+                },
+                {
+                    "main": "Air pur, beauté de la palmeraie, immensité des paysages … la région se prête au dépaysement et à la contemplation. Mais il existe d’autres manières de profiter du désert. Si vous êtes sportifs, pratiquez le quad dans les dunes d’Onk Jmel, le char à voile sur le Chott el-Jerid, le trekking dans les pistes de l’Atlas, ou encore le golf dans un impressionnant décor de rochers et de palmiers. En famille ou entre amis, visitez le parc à thème Chak Wak où s’entremêlent dinosaures et histoire des religions. Faites de l’accrobranche dans les palmiers au parc Sahara Lounge. Rejouez Star Wars sur l’authentique site de tournage de Mos Espa. Assistez à la cueillette des dattes (en novembre), et devenez incollable sur l’univers du palmier en visitant le complexe Eden Palm. Traversez d’impressionnants canyons à bord d’un petit train d’époque, le Lézard Rouge. Admirez les costumes et objets précieux mis en scène au musée Dar Chraïet, ou les objets de la vie quotidienne au Musée des arts et traditions populaires.",
+                    "subtitle": "Que faire ?",
+                    "title": "Star Wars et char à voile"
+                },
+                {
+                    "main": "Tozeur est la capitale des dattes : découvrez les différentes variétés de ce fruit emblématique du sud, de l’allig rouge et sucrée à la deglet nour fondante et translucide. Goûtez les boulettes de dattes rfiss relevées d’une pointe de beurre salé. Dégustez la chakhchoukha du Jerid, viande d’agneau en sauce accompagnée de la galette de semoule traditionnelle mtabga. Régalez-vous de barkoukech, sorte de couscous à gros grains garni de viande et de petits poissons séchés. Plus insolite, testez le steack de dromadaire. A Tozeur, l’avenue qui longe la palmeraie est le rendez-vous des gourmets avec plusieurs restaurants offrant le choix entre cuisine régionale du Jerid, cuisine italienne et internationale. Vous pourrez aussi vous restaurer dans les hôtels de la région.",
+                    "subtitle": "Que manger ?",
+                    "title": "Agneau et dattes"
+                },
+                {
+                    "main": "Capitale du tourisme saharien, Tozeur compte plusieurs beaux hôtels de catégorie supérieure. Vue sur la palmeraie, décor traditionnel de briques, piscine, spa et parfois une animation digne d’un hôtel-club … tout est conçu pour vous faire vivre un séjour privilégié dans ces deux cités magiques. D’autres options d’hébergement existent : gîte d’étape, maison d’hôtes en pleine médina ou villa de rêve au cœur de la palmeraie.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Palace saharien, maison ancienne ou lodge dans l’oasis"
+                },
+                {
+                    "main": "La région de Tozeur et Nefta est le Jerid, nom qui signifie “pays des palmes”. Les oasis sont le fruit du travail millénaire des hommes, qui ont fait naître la vie et l’abondance au cœur du désert ; celles de Tozeur et Nefta comptent aujourd’hui chacune plusieurs centaines de milliers de palmiers. Plusieurs sources alimentaient les palmeraies ; « ces ruisseaux se ramifient en rigoles innombrables dans des canaux bâtis en pierre, selon un système scrupuleusement équitable », écrivait Ibn Chabbat au 13e siècle. Au fil des siècles, la terre devenue fertile a permis une agriculture à trois étages : cultures maraîchères et céréales poussent à l’ombre des arbres fruitiers, eux-mêmes protégés par les hauts palmiers dattiers. Tozeur et Nefta étaient aussi des étapes obligées sur le passage des grandes caravanes et ont longtemps été prospères. Tozeur occupe une place particulière en Tunisie comme centre de culture de langue arabe et Nefta comme haut lieu du soufisme.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Les grandes oasis"
+                },
+                {
+                    "main": "Explorez les vieux quartiers de Tozeur et Nefta. Entre les hauts murs de briques blondes, vous parcourrez un labyrinthe d’impasses et de ruelles. De longs passages voûtés débouchent sur des placettes où le soleil joue sur les façades tapissées de motifs en relief. Dans ces grandes cités du désert, les décors des maisons ne sont pas faits de pierre sculptée, mais de briques artistement disposées, les unes en saillie, les autres en retrait. Losanges, chevrons, palmes ou hexagones, les décors géométriques accompagneront votre promenade. Les petites briques faites d’argile mêlée de sable caractérisent l’architecture du Jerid ; elles donnent aux villes la couleur ocre du désert. L’arbre roi de la région, le palmier, fournit le bois des poutres et des planchers. Si vous avez la chance de visiter une belle maison de Tozeur, vous découvrirez un véritable palais saharien : autour d’une vaste cour intérieure, c’est une succession de vestibules, d’arcades, de hautes chambres à plafonds de palmes et de pièces aux fenêtres étroites où sont suspendus les régimes de dattes de la dernière récolte.",
+                    "title": "L’architecture de Tozeur et Nefta"
+                }
+            ]
+        },
+        {
+            "name": "Douz",
+            "lat": 33.4599745,
+            "log": 9.0430803,
+            "img": "16",
+            "good": "Commissariat au Tourisme de Kébili\nTél. : 75 492 530 / 75 492 531\ncrt.kebili@ontt.tourism.tn\nFestivals\nFestival du Sahara de Douz : traditions des nomades (fin décembre)\nMarchés hebdomadaires\nMardi : Kébili. Jeudi : Douz.",
+            "transport": "Douz est accessible par route, à 125 km de l’aéroport international de Tozeur et à 260 km de l’aéroport international de Djerba. Ksar Ghilane est accessible par route, à 260 km de l’aéroport international de Tozeur et à 210 km de l’aéroport international de Djerba. Un permis de circulation est nécessaire pour les raids dans l’extrême Sud.",
+            "shopping": "Achetez des dattes deglet nour, tendres et translucides : celles de Kébili sont réputées. En souvenir de vos excursions dans le désert, rapportez un chèche (longue écharpe en coton pour se protéger le visage) et des sandales de cuir.",
+            "slides": [
+                {
+                    "main": "Couverte d’un fin manteau blanc tel un paysage enneigé, la région de Douz offre la plus douce des approches du désert. Des cordons de dunes et de gracieux bouquets de palmiers longent les routes mangées par le sable. L’immensité blonde du désert est là, à portée de main, tandis que les palmeraies offrent de délicieuses haltes ombragées dans des forêts de palmiers-dattiers. Au cœur de la région,une immense étendue salée aux reflets changeants : le Chott El-Jerid."
+                },
+                {
+                    "main": "Aux portes des hôtels de Douz commence le désert de sable: une promenade guidée, à pied ou à dos de dromadaire, pour voir le soleil se coucher derrière les dunes vous transportera en quelques minutes dans un univers de rêve. De l’autre côté, le Chott El-Jerid s’étend à perte de vue, avec ses cristaux de sel et sa surface scintillante où se forment d’étranges mirages : cette ancienne mer intérieure, en grande partie asséchée, est traversée par une route goudronnée. Entre ces deux immensités – désert de sable et désert de sel – se trouvent les villages ensablés de Sabria, Nouil, El Faouar avec leurs petites oasis. Plus au sud, Ksar Ghilane marque la frontière entre désert de sable et désert de pierre ; une halte idéale pour les randonneurs avec sa palmeraie, sa source thermale et ses allées ombragées par des tamaris grouillants d’oiseaux. Puis une large piste file vers la cité pétrolière d’El Borma entre les majestueuses dunes aux teintes rosées du Grand Erg Oriental.",
+                    "subtitle": "Que voir ?",
+                    "title": "Dunes et oasis"
+                },
+                {
+                    "main": "Pour ressentir l’émotion du désert, faites une courte méharée avec des guides locaux, un repas sous la tente et une nuit en bivouac dans la splendeur des dunes sous un ciel illuminé d’étoiles. Pour vivre la véritable aventure saharienne, partez en raid motorisé en plein désert ou en randonnée à pied dans des paysages grandioses. Les grands espaces sahariens se prêtent aussi à la performance et aux sports extrêmes. Les zones ensablées sont des défis à relever en quad, en 4x4 ou en moto. Les vastes étendues comme le Chott El-Jerid permettent de pratiquer le char à voile et le speed sail. Le ski de dunes offre des sensations grisantes, et l’ULM est l’un des meilleurs moyens d’apprécier la beauté du Sahara tunisien. Amateurs de faune et flore, observez en hiver les milliers de flamants roses sur le Chott El-Jerid, ou rendez-vous au Parc National de Jebil pour apercevoir des gazelles et des antilopes addax. Amateurs d’histoire, vous verrez les restes d’un fort romain près de Ksar Ghilane.",
+                    "subtitle": "Que faire ?",
+                    "title": "Trekking ou 4x4"
+                },
+                {
+                    "main": "Goûtez l’ordinaire des bergers nomades : la pâte de dattes marfoussa, la soupe d’orge tchiche. Regardez la préparation du fameux pain du désert, cuit dans le sable chaud sous un lit de cendres et de braises. Dégustez à petites gorgées le thé rouge, très fort et sucré. Et lors des grandes occasions, le couscous à la viande de mouton.",
+                    "subtitle": "Que manger ?",
+                    "title": "Couscous et pain du désert"
+                },
+                {
+                    "main": "Douz offre un grand choix d’hébergement et de beaux hôtels avec vue sur les dunes de sable. Les campements sahariens sont nombreux, du plus simple au plus confortable : Ksar Ghilane, Zaafrane, Bir Soltane … Un campement de luxe se trouve au pied de la montagne de Tembaïne, isolé dans un décor grandiose en plein désert de sable.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Hôtel ou campement"
+                },
+                {
+                    "main": "Douz est habitée par les Mrazig, peuple d’éleveurs nomades, qui, de nos jours encore, quittent périodiquement leur maison en dur pour retrouver la vie sous la tente. Les régions proches du désert ont toujours profité de la complémentarité entre nomades et sédentaires. Les oasis produisent dattes, fruits, céréales et légumes ; les nomades élèvent moutons, chèvres et dromadaires. Ces derniers étaient autrefois indispensables au commerce transsaharien ; les méharis, dromadaires fins et rapides, étaient des montures guerrières. Point de ralliement des nomades chameliers, Douz est resté un grand marché pour les éleveurs du sud et un haut lieu des traditions sahariennes. Rites de mariage, courses de chiens sloughis, jeux et fantasias, départ des caravanes … les cérémonies ancestrales demeurent ancrées dans le cœur des habitants. Lors du grand Festival du Sahara de Douz, ils se font un plaisir de les mettre en scène pour la grande joie des visiteurs.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Nomades et méharis"
+                },
+                {
+                    "main": "Le désert comme on en rêve, expérience de la plénitude et de l’immensité, du silence et de la douceur… La Tunisie compte 40 000 kilomètres carrés de désert de sable, une partie du Grand Erg Oriental qui offre les panoramas de dunes sculptées par le vent plus splendides. Tantôt doucement ondulées, tantôt dressées en vagues impétueuses, celles-ci se nimbent de jaune et de rose au petit jour – spectacle rare qui vient récompenser les nuits en bivouac. Le paysage sans cesse renouvelé recèle parfois des surprises : puits ensablés, montagnes surplombant les dunes, cuvettes abritant quelques broussailles et arbustes, ou même un lac où s’ébattent canards et aigrettes. Guides et chameliers de la région mettent toute leur passion et leur expérience au service de ceux qui veulent découvrir l’émotion du voyage saharien. Ils vous feront connaître les astuces de la vie nomade et vous guideront vers les champs de roses des sables, les montagnes ensablées, les troupeaux assemblés autour des points d’eau ou les lacs d’eau chaude scintillant au milieu des sables.",
+                    "title": "Le Grand Erg oriental"
+                }
+            ]
+        },
+        {
+            "name": "Tataouine",
+            "lat": 32.9307847,
+            "log": 10.4510937,
+            "img": "17",
+            "good": "Commissariat au Tourisme de Tataouine\nTél : 75 862 556 / 75 862 674\ncrt.tataouine@ontt.tourism.tn\nFestivals\nFestival des Ksour à Tataouine : (en mars). \nMarchés hebdomadaires \nLundi, mardi : Tataouine. Dimanche : Médenine.",
+            "transport": "Tataouine est accessible par route goudronnée à 140 km de l’aéroport de Djerba.",
+            "shopping": "Rendez-vous sur les marchés hebdomadaires. Vous trouverez peut-être une couverture tissée aux couleurs vives, ou un beau tissu orné de chevrons et de dessins géométriques comme le bakhnoug (châle berbère) que portent les femmes de la région.",
+            "slides": [
+                {
+                    "main": "Dans des paysages grandioses de montagnes et de plateaux désertiques surgissent les étonnantes architectures des Ksour, greniers collectifs fortifiés des nomades sahariens. Tous différents et spectaculaires, les Ksour ressemblent à de grosses ruches, formées d’alvéoles superposées autour d’une vaste cour. Tout aussi impressionnants sont les vieux villages berbères accrochés au faîte des montagnes tels que Chenini ou Douiret. Tout autour, le désert apparaît dans toute sa rudesse, implacable ; une vaste plaine caillouteuse où émergent falaises et pitons rocheux."
+                },
+                {
+                    "main": "Pour visiter les Ksour, on escalade les échelles et les escaliers qui permettaient autrefois de stocker les récoltes dans les différents étages d’alvéoles, les ghorfas. Les villages perchés avaient aussi leurs ghorfas, des greniers occupant le faîte des montagnes, telles des citadelles aujourd’hui en ruine. En dessous s’étagent des habitations troglodytes creusées dans les parois rocheuses. Dans ces villages – Chenini, Douiret –, la langue berbère est encore en usage de nos jours. A Chenini, on vous montrera des tombes géantes et on vous racontera la légende des Sept Dormants : ce vieux mythe méditerranéen a trouvé là un de ses avatars. A Douiret, vous pénétrerez dans une mosquée souterraine. Pour les passionnés de géologie et de préhistoire, des peintures rupestres du néolithique sont visibles près de Ghomrassen et un affleurement du Permien marin (250 millions d’années), unique en Afrique, à Jebel Tebaga près de Médenine.",
+                    "subtitle": "Que voir ?",
+                    "title": "Ghorfas et villages perchés"
+                },
+                {
+                    "main": "Faites un trekking à pied pour visiter les différents Ksour et villages de crête, en dormant dans un gîte d’étape aménagé dans une ghorfa ou une maison troglodyte. Visitez le musée de la mémoire de la terre, à Tataouine : on y voit des fossiles de dinosaures et des météorites découverts dans la région. Assistez au tissage des flij, longues bandes qui, une fois assemblées, forment la tente nomade. Rendez-vous au marché hebdomadaire où se retrouvent paysans et éleveurs. Assistez au Festival des Ksour : vous y verrez une reconstitution des cérémonies de stockage de la récolte, et entendrez les musiques et chants traditionnels du sud-est (en mars). Si vous êtes passionnés de faune et de flore, explorez le parc naturel de Sidi Toui.",
+                    "subtitle": "Que faire ?",
+                    "title": "Trekking et dinosaures"
+                },
+                {
+                    "main": "La nourriture des habitants des villages est simple. On pourra goûter la galette de semoule kesra trempée dans l’huile vierge tirée des olives du village, les figues ou les grenades fraîchement cueillies dans les jessour, le miel aux puissants parfums de thym des montagnes. Et bien sûr, le couscous à la savoureuse viande de mouton.",
+                    "subtitle": "Que manger ?",
+                    "title": "Galette ou couscous"
+                },
+                {
+                    "main": "On trouve quelques hôtels simples à Tataouine et Médenine. La région est surtout indiquée pour ses hébergements insolites : hôtel confortable se fondant dans le paysage désertique, ou gîte aménagé dans une maison troglodyte.",
+                    "subtitle": "Où dormir ?",
+                    "title": "Hôtel ou gîte troglodyte"
+                },
+                {
+                    "main": "Comment des villageois ont-ils pu s’installer et survivre dans une région aussi inhospitalière que le pays des Ksour ? Et pourquoi ont-ils choisi de s’établir au sommet des montagnes ? La réponse tient dans les jessour, un système permettant de retenir les rares eaux de pluie. Ces petits barrages de terre et de pierres, sur plusieurs étages à flanc de montagne, retiennent les eaux de ruissellement et rendent possibles des cultures en terrasses pour les besoins du village. Quant aux maisons troglodytes, elles offrent une atmosphère tempérée en toute saison ; avantage précieux dans ces régions montagneuses aux étés caniculaires.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Villages berbères"
+                },
+                {
+                    "main": "Les étonnantes architectures des Ksour surgissent au cœur d’un paysage desséché de montagnes, de plateaux et de pitons escarpés. Ces “châteaux du désert” (ksour est le pluriel de ksar) étaient autrefois des points de ralliement pour les semi-nomades de la région qui y stockaient leurs récoltes à l’abri des pillards, dans des compartiments superposés appelés ghorfas. Les Ksour de crêtes, aujourd’hui en ruines, se dressent au sommet de montagnes escarpées, épousant le rocher avec lequel ils se confondent, au cœur de villages comme Chenini, Douiret, Guermassa. Tous différents et spectaculaires, d’autres Ksour, beaucoup plus étendus, évoquent irrésistiblement de grosses ruches avec leurs innombrables alvéoles entourant une vaste cour : ce sont Ksar Haddada, Ksar Ouled Soltane, Ksar Ouled Debbab … Les plus grands comptent plusieurs centaines de ghorfas et jusqu’à quatre étages superposés. Des décors saisissants entourés de majestueux paysages sahariens.",
+                    "title": "Les Ksour"
+                }
+            ]
+        },
+        {
+            "name": "Gabès à Matmata",
+            "lat": 33.8822911,
+            "log": 10.1016752,
+            "img": "18",
+            "good": "Commissariat au Tourisme de Gabès\nTél. : 75 277 684 / 75 275 055\ncrt.gabes @ontt.tourism.tn\nMarchés hebdomadaires\nLundi : Matmata, Mareth. Dimanche : Gabès",
+            "transport": "Des aéroports internationaux existent à Djerba (environ 100 km de Gabès) et Sfax (160 km). Une excellente route relie Matmata à Douz et Médenine pour un grand circuit du Sud tunisien. A l’intérieur de Gabès, privilégiez les taxis jaunes munis d’un compteur.",
+            "shopping": "Le marché de Jara, à Gabès, est l’endroit où se vendent toutes les spécialités d’artisanat de la région. Vous y trouverez toutes sortes d’objets en alfa tressé : couffins, chapeau de soleil… Vous dénicherez aussi des chaussures brodées et de magnifiques mergoums (tapis ras) du Sud tunisien, aux couleurs chaudes et aux motifs géométriques berbères. Pour colorer vos cheveux d’éclats cuivrés, le henné est une spécialité de Gabès réputée pour son excellente qualité.",
+            "slides": [
+                {
+                    "main": "Gabès est la seule oasis littorale de Méditerranée, entourée de plages de sable fin. Sa vaste palmeraie est un véritable enchantement, et sa vieille ville se distingue par son atmosphère authentique. Mais Gabès est surtout la porte d’entrée vers le Sahara ; début d’un voyage entre crêtes et collines arides, tentes bédouines et vieux villages berbères. On y découvre des traditions vivantes et des modes de vie ancestraux, comme l’étonnant village troglodyte du mont Matmata."
+                },
+                {
+                    "main": "Promenez-vous en calèche dans l’oasis de Gabès, qui compte plusieurs centaines de milliers de palmiers. A l’ombre des hauts arbres poussent de multiples arbres fruitiers . Au début de l’été, admirez les grenadiers en fleurs qui donneront à l’automne leurs fruits gorgés de jus sucré. Parcourez les rues tortueuses et les passages couverts du quartier du Vieux Menzel. Sur le marché coloré de Jana, achetez des épices et de la poudre de henné, plante colorante et médicinalecultivée dans l’oasis. Gabès possède aussi de belles plages où s’ébattent une multitude de hérons et de flamants roses. Dans l’arrière-pays, de vieux villages berbères accrochés à flanc de colline se fondent dans le paysage rocheux.Cette région dissimule l'un des sites de Tunisie les plus étonnant : Matmata, dont le sol est percé d’innombrables cratères creusés dans la roche tendre. Ce sont en réalité les cours intérieures d’habitations troglodytes:leshabitants vivent dans des chambres souterraines à l’abri des fortes chaleurs.",
+                    "subtitle": "Que voir ?",
+                    "title": "Oasis et vieux villages"
+                },
+                {
+                    "main": "A Gabès commence l’aventure du tourisme saharien. Son musée des arts et traditions populaires vous initiera aux multiples costumes, tissages, tapis et bijoux caractéristiques de la région. Dans les villages des environs, vous apprendrez à connaître les habitations troglodytes et les méthodes d’agriculture en milieu aride. Vous verrez les femmes fabriquer de magnifiques tentures sur des métiers à tisser rudimentaires. Vous vous initierez à la culture berbère : le petit musée de Tamezret vous en racontera les symboles, les traditions et l’histoire de la reine berbère Kahena. La région, vallonnée, se prête bien à la randonnée à pied. Fans de la saga Star Wars, sachez que certaines scènes ont été tournées à Matmata. Passionnés d’histoire de la Seconde Guerre mondiale, le musée de Mareth conserve le souvenir de la ligne de fortifications construite par les Français puis occupée par le maréchal Rommel. Ornithologues amateurs, le golfe de Gabès est un des plus grands sites d’hivernage d’oiseaux d’eau en Méditerranée.",
+                    "subtitle": "Que faire ?",
+                    "title": "Bird-watching ou culture berbère"
+                },
+                {
+                    "main": "Grande ville côtière, Gabès vous proposera des poissons et fruits de mer cuisinés de diverses manières : rouget grillé, calamars farcis, roussette en ragoût de légumes macérés au sel, ou petits poissons ouzef en salade de poivrons. L’agneau des éleveurs nomades tient aussi une grande place dans la cuisine du sud. Dégustez-le rôti ou en couscous. Si vous séjournez à Gabès en automne, profitez-en pour déguster des grenades de l’oasis. Les restaurants touristiques étant rares dans la région de Gabès, vous pourrez vous restaurer dans les hôtels. Sinon, optez pour les petits restaurants qui servent une cuisine simple et typique, mais généralement pas d’alcool.",
+                    "subtitle": "Que manger ?",
+                    "title": "Poissons et grenades"
+                },
+                {
+                    "main": "Peu touristique, Gabès compte cependant quelques hôtels non dénués de charme. Dans la région, vous trouverez des formes d’hébergement originales qui vous feront vivre pleinement les émotions du désert : hôtel dans le style saharien, maison d’hôtes à Tamezret, gîte d’étape dans une maison troglodyte de Matmata …",
+                    "subtitle": "Où dormir ?",
+                    "title": "Hôtel saharien ou maison troglodyte"
+                },
+                {
+                    "main": "Exceptionnelle par sa situation en bord de mer, l’oasis de Gabès est connue depuis l’Antiquité : « Il y a en Afrique, au milieu du désert (…) une cité nommée Tacapé, dont le territoire, bien irrigué, est d’une fertilité miraculeuse », écrivait Pline l’Ancien. Au 11e siècle, c’était « Qabis, grande ville ceinte par une muraille de grosses pierres », selon El-Bekri. On trouve à Gabès plusieurs monuments datant du 17e siècle : mosquées, mausolée du saint Sidi Boulbaba et une médersa transformée aujourd’hui en musée des arts et traditions populaires. Dans les régions sahariennes voisines a subsisté une très vieille tradition de Tunisie : l’habitat troglodytique. Ainsi, les maisons de Matmata sont aménagées selon le plan classique des maisons tunisiennes, une cour centrale entourée de chambres ; mais celles-ci sont entièrement souterraines. D’autres villages, comme Tamezret, s’enroulent autour d’un pic montagneux, leurs maisons de pierre se fondant dans la couleur du rocher ; une petite mosquée y domine un labyrinthe de ruelles.",
+                    "subtitle": "Des clés pour comprendre",
+                    "title": "Oasis et troglodytes"
+                },
+                {
+                    "main": "Si le métier à tisser tient une place de choix dans les maisons des villages du sud, c’est du au fait que les villageoises en tirent de multiples ouvrages destinés à tous les usages du quotidien. Les mergoums et les klims sont les tapis ras qui isolent le sol ; les couvertures tapissent les murs et recouvrent les lits ; les coussins tiennent lieu de mobilier. Leurs couleurs chaudes sont tirées de pigments végétaux : rouge vif, bleu nuit, brun, oranger … Les plus simples arborent des rayures vivement colorées ; les plus beaux sont entièrement couverts de motifs géométriques : losanges, chevrons, symboles et petits animaux stylisés, selon un répertoire traditionnel riche de significations. Les villageoises tissent encore de grandes pièces de laine, qui deviennent des vêtements drapés pour les hommes comme pour les femmes et de petits voiles qu’elles posent sur leur tête pour sortir de chez elles, les bakhnoug. Ces fines pièces de laine, rouges pour les jeunes femmes, noires pour les plus âgées, sont ornées de délicats motifs tissés en blanc.",
+                    "title": "Tissages du Sud"
+                }
+            ]
+        }
+    ]
+}
